@@ -1,78 +1,96 @@
-<div align="center">
+<h1 align="center">📊 Basic Data Science 4 ML</h1>
+<p align="center">
+  <b>A beginner-friendly roadmap to <span style="color:#1f77b4;">NumPy</span>, <span style="color:#ff7f0e;">Pandas</span>, and <span style="color:#2ca02c;">SQL</span></b> 🚀  
+</p>
 
-# 📖 Basic Data Science for ML  
-
-💡 *A beginner-friendly repository for learning the foundations of Data Science with **NumPy, Pandas, and SQL**.*  
-
-<img src="https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white" /> 
-<img src="https://img.shields.io/badge/NumPy-Data%20Science-blue?logo=numpy&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Pandas-Data%20Analysis-green?logo=pandas&logoColor=white" /> 
-<img src="https://img.shields.io/badge/SQL-Database-orange?logo=mysql&logoColor=white" />
-
-</div>
-
----
-
-## 🔍 Overview  
-This repository covers the **core building blocks** of Data Science:  
-
-- 🔢 **NumPy** → Numerical computing with arrays, vectors, and matrices.  
-- 📊 **Pandas** → Handling tabular data, cleaning, transformations, and analysis.  
-- 🗄️ **SQL** → Querying, filtering, aggregating, and managing structured data.  
-
-Together, these tools form the foundation for data analysis before diving into advanced ML.  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.8+-blue?logo=python" />
+  <img src="https://img.shields.io/badge/NumPy-1.24+-orange?logo=numpy" />
+  <img src="https://img.shields.io/badge/Pandas-2.0+-yellow?logo=pandas" />
+  <img src="https://img.shields.io/badge/SQL-Basics-green?logo=databricks" />
+  <img src="https://img.shields.io/badge/License-MIT-success" />
+</p>
 
 ---
 
-## 🗓️ Study Roadmap  
+<h2>📂 Repository Structure</h2>
+
+<ul>
+  <li>📘 <b>NumPy</b> → Arrays, Broadcasting, Linear Algebra</li>
+  <li>📗 <b>Pandas</b> → DataFrames, Cleaning, Aggregations</li>
+  <li>🗄️ <b>SQL</b> → Queries, Joins, GroupBy, Subqueries</li>
+</ul>
+
+---
+
+<h2>📅 Study Timeline</h2>
 
 <table>
   <tr>
-    <th>⏰ Stage</th>
-    <th>🎯 Topics & Goals</th>
+    <th>Week</th>
+    <th>Focus</th>
+    <th>Concepts</th>
+    <th>Mini Project</th>
   </tr>
   <tr>
-    <td><b>1. Python Basics</b></td>
-    <td>Review Python essentials: variables, loops, functions, lists, and dictionaries.  
-    Set up Jupyter Notebook for practice.</td>
+    <td>1</td>
+    <td>NumPy Basics</td>
+    <td>Arrays, Shapes, Indexing</td>
+    <td>📐 Vector Math</td>
   </tr>
   <tr>
-    <td><b>2. NumPy</b></td>
-    <td>Learn array creation, indexing, slicing, mathematical operations, and statistics.  
-    ⚡ Focus on vectorization (avoiding loops for speed).</td>
+    <td>2</td>
+    <td>Array Ops</td>
+    <td>Broadcasting, Dot Product</td>
+    <td>🔢 Linear Algebra Demo</td>
   </tr>
   <tr>
-    <td><b>3. Pandas</b></td>
-    <td>Work with DataFrames & Series. Perform data cleaning, missing value handling, merging, grouping, and exploratory data analysis.</td>
+    <td>3</td>
+    <td>Pandas Foundations</td>
+    <td>Series, DataFrames, Indexing</td>
+    <td>📊 Analyze a CSV dataset</td>
   </tr>
   <tr>
-    <td><b>4. SQL</b></td>
-    <td>Practice writing SQL queries: SELECT, WHERE, JOIN, GROUP BY, ORDER BY.  
-    Combine SQL with Pandas for end-to-end analysis.</td>
+    <td>4</td>
+    <td>Pandas Advanced</td>
+    <td>GroupBy, Aggregations, Joins</td>
+    <td>📈 Sales Data Analysis</td>
   </tr>
   <tr>
-    <td><b>5. Mini Projects</b></td>
-    <td>Apply everything: load CSVs, clean & transform data with Pandas/NumPy, and use SQL to query structured datasets.  
-    Example: analyze sales data, student marks, or any open dataset.</td>
+    <td>5</td>
+    <td>SQL Basics</td>
+    <td>SELECT, WHERE, ORDER BY</td>
+    <td>🗄️ Simple Querying</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>SQL Advanced</td>
+    <td>Joins, GroupBy, Subqueries</td>
+    <td>📂 Database Case Study</td>
   </tr>
 </table>
 
 ---
 
-## 💡 Tips & Tricks  
+<h2>💡 Tips & Tricks</h2>
 
-✅ Learn **NumPy first** → it makes Pandas easier.  
-✅ Use **vectorized operations** (faster than Python loops).  
-✅ Practice **SQL daily** → write queries by hand to build muscle memory.  
-✅ Don’t just read — **code along** and try modifying examples.  
-✅ Start small projects → e.g. “Top 5 products by sales”, “Average grades by subject”, etc.  
+<ul>
+  <li>🔥 <b>NumPy</b>: Use <code>vectorization</code> instead of Python loops for speed.</li>
+  <li>📊 <b>Pandas</b>: Always check <code>df.info()</code> and <code>df.describe()</code> before analysis.</li>
+  <li>🗄️ <b>SQL</b>: Start with <code>SELECT * FROM table LIMIT 10;</code> to explore datasets quickly.</li>
+  <li>🧩 Build small projects → Apply concepts after each week.</li>
+  <li>📖 Revise theory with math connections (linear algebra, statistics).</li>
+  <li>🚀 Practice on real-world datasets (Kaggle, public datasets).</li>
+</ul>
 
 ---
 
-## ⚙️ Setup & Installation  
+<h2>⚡ Getting Started</h2>
 
-1. 🐍 **Install Python 3** → [Download here](https://www.python.org/downloads/)  
+```bash
+# clone the repo
+git clone https://github.com/Obiwankenobi699/Basic_DataScience-4ML.git
+cd Basic_DataScience-4ML
 
-2. 📦 **Install required libraries**  
-   ```bash
-   pip install numpy pandas
+# open notebooks
+jupyter notebook
