@@ -2,25 +2,25 @@
 
 # 📖 Basic Data Science for ML  
 
-💡 *A beginner-friendly guide to Data Science fundamentals and Machine Learning basics.*  
+💡 *A beginner-friendly repository for learning the foundations of Data Science with **NumPy, Pandas, and SQL**.*  
 
 <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white" /> 
-<img src="https://img.shields.io/badge/ML-Basics-green?logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-Data%20Science-blue?logo=numpy&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Pandas-Data%20Analysis-green?logo=pandas&logoColor=white" /> 
+<img src="https://img.shields.io/badge/SQL-Database-orange?logo=mysql&logoColor=white" />
 
 </div>
 
 ---
 
-## 🔍 Overview
-Data Science is the field of study that uses **scientific methods, algorithms, and systems to extract knowledge and insights from data**.  
-This repository covers the **core building blocks** for anyone starting their journey:
+## 🔍 Overview  
+This repository covers the **core building blocks** of Data Science:  
 
-- 🔧 **Python & Environment** → Setup, Jupyter Notebooks, package management  
-- 📊 **Data Wrangling** → NumPy (arrays) and Pandas (tabular data)  
-- 📈 **Visualization** → Matplotlib & Seaborn charts for insights  
-- 🤖 **Machine Learning** → Regression, Classification, Clustering with Scikit-Learn  
-- 🧪 **Projects** → End-to-end workflows on real datasets  
+- 🔢 **NumPy** → Numerical computing with arrays, vectors, and matrices.  
+- 📊 **Pandas** → Handling tabular data, cleaning, transformations, and analysis.  
+- 🗄️ **SQL** → Querying, filtering, aggregating, and managing structured data.  
+
+Together, these tools form the foundation for data analysis before diving into advanced ML.  
 
 ---
 
@@ -28,33 +28,32 @@ This repository covers the **core building blocks** for anyone starting their jo
 
 <table>
   <tr>
-    <th>⏰ Week</th>
+    <th>⏰ Stage</th>
     <th>🎯 Topics & Goals</th>
   </tr>
   <tr>
-    <td><b>1–2</b></td>
-    <td>Python fundamentals (syntax, data types, functions) + basic Pandas exploration.  
-    ⚡ Get comfortable with Jupyter and Git.</td>
+    <td><b>1. Python Basics</b></td>
+    <td>Review Python essentials: variables, loops, functions, lists, and dictionaries.  
+    Set up Jupyter Notebook for practice.</td>
   </tr>
   <tr>
-    <td><b>3–4</b></td>
-    <td>Math & Stats refresher + intro to Machine Learning.  
-    Try <code>Linear Regression</code> & <code>k-NN</code> with Scikit-Learn.</td>
+    <td><b>2. NumPy</b></td>
+    <td>Learn array creation, indexing, slicing, mathematical operations, and statistics.  
+    ⚡ Focus on vectorization (avoiding loops for speed).</td>
   </tr>
   <tr>
-    <td><b>5–6</b></td>
-    <td>Databases (SQL basics) + advanced ML (Decision Trees, Clustering).  
-    Explore handling larger datasets.</td>
+    <td><b>3. Pandas</b></td>
+    <td>Work with DataFrames & Series. Perform data cleaning, missing value handling, merging, grouping, and exploratory data analysis.</td>
   </tr>
   <tr>
-    <td><b>7–8</b></td>
-    <td>Build real-world projects. Create visual dashboards & reports.  
-    Document projects on GitHub (portfolio building).</td>
+    <td><b>4. SQL</b></td>
+    <td>Practice writing SQL queries: SELECT, WHERE, JOIN, GROUP BY, ORDER BY.  
+    Combine SQL with Pandas for end-to-end analysis.</td>
   </tr>
   <tr>
-    <td><b>9+</b></td>
-    <td>Prepare for jobs/internships → polish resume & portfolio.  
-    Stay updated via Kaggle, forums, and continuous learning.</td>
+    <td><b>5. Mini Projects</b></td>
+    <td>Apply everything: load CSVs, clean & transform data with Pandas/NumPy, and use SQL to query structured datasets.  
+    Example: analyze sales data, student marks, or any open dataset.</td>
   </tr>
 </table>
 
@@ -62,20 +61,18 @@ This repository covers the **core building blocks** for anyone starting their jo
 
 ## 💡 Tips & Tricks  
 
-✅ Practice on **real datasets** – theory alone won’t stick.  
-✅ Join communities (GitHub, Kaggle, Reddit) to learn collaboratively.  
-✅ Study in **small consistent sessions** (daily > binge learning).  
-✅ Teach back concepts (notes, blogs) → best way to reinforce.  
-✅ Stay updated – Data Science evolves fast! 🚀  
+✅ Learn **NumPy first** → it makes Pandas easier.  
+✅ Use **vectorized operations** (faster than Python loops).  
+✅ Practice **SQL daily** → write queries by hand to build muscle memory.  
+✅ Don’t just read — **code along** and try modifying examples.  
+✅ Start small projects → e.g. “Top 5 products by sales”, “Average grades by subject”, etc.  
 
 ---
 
 ## ⚙️ Setup & Installation  
 
 1. 🐍 **Install Python 3** → [Download here](https://www.python.org/downloads/)  
-   Make sure to check “Add to PATH” during installation.  
 
-2. 📓 **Install Jupyter Notebook**  
+2. 📦 **Install required libraries**  
    ```bash
-   pip install notebook
-   jupyter notebook
+   pip install numpy pandas
