@@ -1,0 +1,35 @@
+digraph ML_Workflow {
+    rankdir=TB;  // Top to Bottom layout
+    node [shape=box, style=rounded, color=blue, fontname="Helvetica"];
+
+    // Nodes
+    RawDataset [label="Raw Dataset"];
+    EDA [label="Exploratory Data Analysis (EDA)"];
+    UnderstandFeatures [label="Understand Features\n(Numeric, Categorical, DateTime)"];
+    CheckMissing [label="Check Missing Values"];
+    DetectOutliers [label="Detect Outliers\n(IQR, Z-score, Visualization)"];
+    OutlierHandling [label="Outlier Handling & Missing Value Imputation"];
+    Preprocessing [label="Data Preprocessing"];
+    FeatureEngineering [label="Feature Engineering"];
+    SplitData [label="Train/Test/Validation Split"];
+    ML_Pipeline [label="ML Pipeline Creation"];
+    ModelEvaluation [label="Model Evaluation & Tuning"];
+    Deployment [label="Deployment / Model Saving"];
+
+    // Edges
+    RawDataset -> EDA;
+    EDA -> UnderstandFeatures;
+    EDA -> CheckMissing;
+    EDA -> DetectOutliers;
+
+    CheckMissing -> OutlierHandling;
+    DetectOutliers -> OutlierHandling;
+    UnderstandFeatures -> Preprocessing;
+    OutlierHandling -> Preprocessing;
+
+    Preprocessing -> FeatureEngineering;
+    FeatureEngineering -> SplitData;
+    SplitData -> ML_Pipeline;
+    ML_Pipeline -> ModelEvaluation;
+    ModelEvaluation -> Deployment;
+}
