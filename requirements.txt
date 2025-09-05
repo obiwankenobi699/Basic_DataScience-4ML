@@ -7,3 +7,4 @@ numpy==2.2.5
 pandas==2.2.2
 matplotlib==3.10.5
 seaborn==0.13.2
+ydata-profiling==4.6.4
