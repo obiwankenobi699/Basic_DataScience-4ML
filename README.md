@@ -1,6 +1,4 @@
-Here is a comprehensive, professionally structured document-style set of notes for your **Basic Data Science 4 ML** repo. You can use this as a PDF or DOC file for distribution, teaching, or onboarding.
 
-***
 
 ***
 
@@ -180,3 +178,4 @@ Use it to build solid foundations before moving on to advanced ML or deployment 
 ***
 
 **Happy Learning & Coding!**
+
