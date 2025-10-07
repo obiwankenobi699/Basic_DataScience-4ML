@@ -7,9 +7,6 @@
 Below is the project folder structure + timeline (shown in fixed layout):
 
 
-
-[Python ≥3.8] [Jupyter Notebook] [MIT License] [Contributions Welcome]
-
 Table of Contents:
  1. Overview
  2. Project Structure
@@ -122,5 +119,6 @@ Contributions are welcome! Open issues or submit pull requests.
 
 Happy Learning & Coding! 📚
 _______________________________________________________________________________________
+
 
 
