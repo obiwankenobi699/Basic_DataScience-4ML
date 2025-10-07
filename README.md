@@ -22,7 +22,7 @@ A modular roadmap to master **NumPy**, **Pandas**, and **SQL**.
   
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-br Table of Contents
 
-1. [Overview](#overview)
+1. [Overview](#overview);
 2. [Project Structure](#project-structure)
 3. [Technology Stack & Requirements](#technology-stack--requirements)
 4. [Study Timeline](#study-timeline)
@@ -152,3 +152,4 @@ Happy Learning & Coding! 🚀
 ***
 
 You can copy this as-is into your `README.md` – it’s plain Markdown and fully compatible with GitHub.
+
