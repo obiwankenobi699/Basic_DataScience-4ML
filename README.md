@@ -1,8 +1,12 @@
- ______________________________________________________________________________________
-|                                                                                      |
-| 📊 Basic Data Science for Machine Learning                                           |
-| A modular roadmap to master NumPy, Pandas & SQL                                     |
-|______________________________________________________________________________________|
+# 📊 Basic Data Science for Machine Learning
+
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)  
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)  
+![License](https://img.shields.io/badge/License-MIT-green)  
+
+Below is the project folder structure + timeline (shown in fixed layout):
+
+
 
 [Python ≥3.8] [Jupyter Notebook] [MIT License] [Contributions Welcome]
 
@@ -118,4 +122,5 @@ Contributions are welcome! Open issues or submit pull requests.
 
 Happy Learning & Coding! 📚
 _______________________________________________________________________________________
+
 
