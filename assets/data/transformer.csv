@@ -1,0 +1,2001 @@
+income,debt,city,education,target
+78184.06,53779.45,Mumbai,Bachelor,0
+44149.66,48731.86,Delhi,High School,0
+89563.04,54663.54,Chennai,Bachelor,0
+196910.61,50490.57,Mumbai,High School,1
+40499.31,60218.08,Bangalore,Bachelor,0
+40499.91,44101.5,Delhi,Bachelor,1
+207123.36,46984.8,Mumbai,Bachelor,0
+99754.71,54840.5,Mumbai,Master,0
+32769.43,36444.67,Delhi,Bachelor,0
+81477.51,30302.39,Delhi,Master,1
+32948.54,59157.96,Chennai,Bachelor,0
+32880.05,54446.43,Delhi,Bachelor,0
+62164.81,54493.73,Delhi,Bachelor,0
+8935.85,55677.42,Mumbai,High School,0
+10586.68,32830.97,Bangalore,Bachelor,0
+30143.35,49283.78,Delhi,Bachelor,1
+20095.08,50042.52,Bangalore,Bachelor,0
+66343.49,60573.24,Delhi,High School,1
+22082.85,36917.0,Delhi,High School,0
+14026.52,57439.85,Delhi,Master,0
+186999.68,46228.78,Chennai,Bachelor,1
+40805.8,43142.69,Delhi,High School,1
+53133.01,18342.54,Delhi,Bachelor,1
+13870.3,57799.16,Mumbai,Bachelor,1
+30633.02,62825.69,Chennai,Master,0
+55249.17,44527.83,Delhi,High School,1
+17745.44,5000.0,Mumbai,High School,1
+70116.01,22153.06,Delhi,Master,1
+29120.67,44154.6,Mumbai,High School,0
+38455.38,52241.13,Bangalore,High School,0
+29092.69,33330.39,Bangalore,PhD,0
+264826.1,55894.4,Mumbai,Bachelor,1
+49396.3,39876.03,Mumbai,High School,0
+19299.58,39358.79,Delhi,High School,0
+104827.22,27192.08,Mumbai,High School,1
+16664.22,5000.0,Delhi,High School,1
+60340.3,41309.77,Bangalore,Master,1
+8570.45,52394.95,Chennai,Bachelor,0
+15129.64,47319.37,Chennai,Master,1
+59692.01,59782.5,Chennai,Master,1
+97187.58,53931.84,Bangalore,Bachelor,0
+58338.05,51484.0,Bangalore,High School,0
+45057.5,52527.7,Delhi,Bachelor,0
+38131.08,44974.23,Bangalore,Master,0
+13215.01,54878.34,Mumbai,Master,0
+26158.21,25547.67,Mumbai,High School,1
+33031.05,46997.39,Bangalore,Bachelor,1
+129467.9,47116.8,Delhi,Bachelor,1
+68120.59,50691.62,Mumbai,Master,1
+10229.61,44934.43,Chennai,High School,0
+66933.43,32929.37,Delhi,Bachelor,0
+35355.32,55190.21,Mumbai,Master,1
+27188.48,53644.64,Chennai,Bachelor,0
+86706.74,50447.49,Bangalore,Bachelor,1
+126459.56,57983.52,Mumbai,High School,0
+115604.53,54855.91,Delhi,High School,1
+23493.58,52102.71,Mumbai,Bachelor,0
+37853.82,31803.51,Chennai,PhD,1
+67367.32,43368.19,Bangalore,High School,1
+120303.01,44387.77,Mumbai,Bachelor,0
+32484.6,32344.92,Delhi,Bachelor,0
+42306.04,48650.27,Delhi,High School,0
+18473.21,41342.1,Chennai,Bachelor,1
+17037.84,48254.72,Mumbai,Master,0
+103886.22,43325.74,Bangalore,Master,0
+169463.75,53029.55,Delhi,Bachelor,0
+46862.32,61735.2,Bangalore,Bachelor,0
+123371.81,48614.84,Chennai,High School,1
+69234.23,16269.97,Bangalore,PhD,1
+27977.91,30577.08,Delhi,High School,0
+69219.25,29619.88,Bangalore,Master,0
+199588.13,22237.43,Bangalore,High School,1
+48413.54,45847.52,Mumbai,PhD,1
+204425.23,44333.94,Chennai,Master,1
+4731.55,53318.39,Bangalore,Master,0
+104766.63,50572.72,Chennai,High School,0
+54074.64,37300.58,Bangalore,Bachelor,1
+38203.09,23191.87,Delhi,Bachelor,0
+54304.53,48673.99,Mumbai,Master,1
+8357.93,51865.54,Delhi,High School,0
+41030.61,46993.35,Chennai,PhD,0
+68952.95,37581.54,Bangalore,Master,1
+189071.95,58448.64,Bangalore,High School,0
+31361.46,61392.39,Mumbai,Master,0
+24152.28,52756.49,Delhi,Bachelor,1
+31831.03,57341.06,Bangalore,Bachelor,0
+113964.26,52387.69,Mumbai,Bachelor,1
+67215.17,48768.96,Delhi,Bachelor,0
+31038.82,51893.64,Bangalore,Master,1
+79357.56,15245.59,Delhi,Bachelor,0
+54565.01,42374.15,Mumbai,Bachelor,0
+119558.23,42786.42,Mumbai,Bachelor,1
+26580.43,37175.5,Delhi,Master,1
+37230.45,56889.26,Chennai,High School,1
+35132.47,27746.35,Delhi,Master,1
+13394.71,47929.76,Delhi,Bachelor,0
+65269.92,36219.21,Delhi,High School,1
+63242.26,56499.95,Bangalore,High School,0
+50230.64,58933.75,Mumbai,Bachelor,0
+40483.5,33090.8,Bangalore,Master,1
+13987.85,41573.72,Delhi,Bachelor,0
+34241.63,55427.1,Delhi,Master,0
+36729.49,55207.59,Mumbai,High School,0
+24287.78,25425.85,Chennai,Bachelor,0
+43244.32,57171.4,Chennai,PhD,0
+71928.23,8159.86,Delhi,Master,0
+273032.36,55417.51,Mumbai,High School,0
+58506.8,36858.48,Chennai,Bachelor,1
+63043.08,50698.87,Mumbai,High School,0
+46759.7,37543.5,Chennai,Bachelor,0
+8891.79,52701.32,Delhi,Master,0
+48821.0,48938.63,Chennai,Master,0
+52785.17,46476.96,Bangalore,High School,0
+458949.83,56075.14,Chennai,Master,1
+42051.63,34766.55,Bangalore,Bachelor,1
+65589.5,52432.4,Mumbai,Bachelor,0
+48462.12,49661.72,Chennai,Bachelor,1
+17465.24,56026.04,Delhi,Bachelor,1
+139849.04,62005.62,Mumbai,Bachelor,1
+98372.64,49252.96,Bangalore,Bachelor,0
+101895.91,5000.0,Bangalore,Bachelor,0
+22055.77,33825.68,Chennai,High School,1
+176714.93,47241.05,Delhi,Master,1
+14159.09,50025.51,Bangalore,Bachelor,0
+84791.42,46714.69,Bangalore,High School,0
+359039.74,38600.23,Delhi,Master,0
+20502.37,57124.14,Mumbai,PhD,0
+30034.75,25732.51,Delhi,PhD,1
+54691.55,35300.25,Mumbai,Bachelor,0
+31781.84,35241.89,Chennai,High School,0
+12384.26,40533.5,Bangalore,Bachelor,0
+53182.52,46751.13,Bangalore,High School,1
+19219.97,36171.21,Chennai,PhD,1
+76573.89,37761.22,Mumbai,High School,1
+21857.44,50951.11,Chennai,High School,0
+201736.82,52952.58,Mumbai,Bachelor,1
+24707.21,45669.75,Chennai,Bachelor,1
+37418.59,11766.61,Delhi,Master,1
+103978.95,57439.05,Chennai,Bachelor,1
+16514.6,58556.29,Delhi,High School,1
+61358.7,44799.56,Mumbai,High School,1
+162138.59,46347.26,Bangalore,Bachelor,1
+11766.87,44677.86,Mumbai,High School,0
+59038.72,43648.14,Bangalore,Bachelor,1
+63175.56,49603.65,Mumbai,Bachelor,0
+101054.87,13925.97,Bangalore,Master,0
+16424.39,59130.68,Delhi,PhD,1
+15235.25,54921.3,Delhi,Master,0
+79979.51,48255.11,Delhi,PhD,0
+65320.71,59301.86,Mumbai,High School,0
+62643.92,49084.82,Delhi,High School,0
+68294.31,7407.01,Mumbai,Bachelor,1
+27112.66,46734.9,Mumbai,Master,1
+61624.0,43845.29,Delhi,PhD,0
+65091.13,57549.68,Bangalore,Master,0
+26287.85,53307.84,Chennai,High School,1
+268062.47,51157.63,Delhi,PhD,0
+76590.47,50589.3,Bangalore,Bachelor,1
+17113.2,20853.11,Bangalore,High School,0
+90280.48,38404.14,Mumbai,Bachelor,1
+20797.02,56732.34,Bangalore,High School,1
+101534.55,43609.97,Mumbai,Bachelor,1
+141848.42,39488.56,Mumbai,Bachelor,0
+23888.78,25016.13,Delhi,Bachelor,0
+118992.63,10578.99,Bangalore,Bachelor,1
+72495.6,56155.41,Bangalore,Master,0
+104781.49,54796.08,Delhi,Bachelor,0
+275651.31,57536.18,Mumbai,Bachelor,1
+40091.88,49719.8,Chennai,Master,0
+25372.36,40051.28,Mumbai,Master,1
+22453.8,29072.4,Mumbai,High School,1
+23993.76,47931.99,Chennai,Bachelor,0
+46648.07,50610.79,Bangalore,High School,0
+67969.55,44982.59,Bangalore,High School,0
+64138.49,54968.08,Bangalore,Bachelor,0
+105265.73,5000.0,Chennai,Master,1
+50588.52,59158.37,Mumbai,High School,0
+184971.85,44515.06,Mumbai,Master,1
+39402.6,5000.0,Mumbai,Master,0
+578347.71,46914.12,Chennai,Master,1
+87805.45,49242.06,Bangalore,High School,0
+23117.3,50984.55,Delhi,Master,0
+19071.97,49135.28,Chennai,Bachelor,0
+77188.32,17942.71,Mumbai,Bachelor,1
+40890.86,61173.05,Delhi,High School,0
+95070.95,12344.26,Mumbai,High School,1
+76549.44,58356.75,Mumbai,Master,1
+46827.8,50064.89,Chennai,Bachelor,0
+23333.93,51671.55,Delhi,High School,0
+12789.96,37823.33,Chennai,High School,0
+33453.6,59119.25,Bangalore,Bachelor,0
+108070.3,40124.27,Delhi,High School,0
+60625.0,5000.0,Chennai,Master,0
+16295.0,58067.99,Mumbai,High School,0
+58433.29,44443.73,Delhi,High School,1
+70725.67,53675.32,Mumbai,Bachelor,0
+22568.41,40748.15,Chennai,Bachelor,0
+57419.02,46757.11,Mumbai,Bachelor,1
+52689.22,53511.68,Delhi,Bachelor,0
+17874.05,39672.71,Delhi,PhD,0
+68994.83,5000.0,Delhi,Bachelor,0
+82824.93,49251.59,Bangalore,High School,0
+132524.71,35209.12,Mumbai,Bachelor,0
+129081.61,57720.37,Delhi,Master,0
+14470.62,55784.69,Delhi,Bachelor,0
+21498.44,39945.43,Mumbai,High School,0
+79483.92,14131.04,Chennai,Master,1
+79394.6,41912.27,Mumbai,Bachelor,1
+79484.81,50542.24,Chennai,Bachelor,0
+1602758.28,47008.93,Mumbai,High School,1
+83581.69,57498.62,Delhi,High School,1
+138938.6,37517.97,Chennai,Bachelor,1
+117992.92,31618.4,Mumbai,High School,0
+89862.0,51883.01,Bangalore,Bachelor,1
+37648.03,52046.81,Chennai,Bachelor,0
+98997.57,43317.91,Delhi,High School,0
+24940.18,51741.11,Delhi,PhD,0
+40402.28,47814.28,Bangalore,Master,0
+32304.15,5000.0,Delhi,Master,0
+53823.48,49858.28,Delhi,High School,0
+401503.29,50993.33,Delhi,High School,0
+9313.68,53560.27,Delhi,Bachelor,0
+92726.77,34695.2,Bangalore,High School,0
+11711.59,49144.53,Delhi,PhD,1
+32697.03,53574.92,Mumbai,High School,1
+133230.21,19610.33,Bangalore,Bachelor,0
+52977.91,16377.14,Mumbai,Bachelor,0
+18954.71,53176.66,Delhi,Bachelor,0
+26265.33,60126.59,Bangalore,High School,0
+92172.42,28561.3,Delhi,Bachelor,1
+25911.66,53853.44,Bangalore,High School,1
+60754.17,33694.0,Chennai,Master,1
+52093.37,60467.38,Mumbai,High School,1
+27815.2,31377.69,Mumbai,Master,0
+344320.42,57289.74,Mumbai,Master,0
+88459.97,34978.71,Mumbai,High School,0
+8080.02,46819.26,Chennai,Master,0
+59135.53,55768.57,Chennai,High School,0
+27561.37,51462.73,Mumbai,PhD,0
+107685.29,35898.36,Bangalore,Bachelor,1
+24501.99,45615.03,Chennai,Bachelor,1
+45094.5,37901.98,Chennai,Bachelor,0
+78768.37,5000.0,Mumbai,High School,0
+108984.17,58978.1,Mumbai,PhD,0
+16975.25,9163.9,Delhi,High School,1
+37002.0,45635.9,Chennai,Bachelor,0
+32608.48,55405.18,Delhi,Bachelor,0
+27771.95,57906.69,Bangalore,PhD,1
+244920.05,49231.92,Delhi,High School,0
+71988.51,30686.91,Delhi,Bachelor,0
+16074.39,48537.46,Mumbai,Bachelor,0
+114216.84,13159.06,Chennai,Master,1
+337634.38,58482.12,Delhi,High School,0
+126626.49,47151.68,Bangalore,High School,1
+12738.0,57509.04,Delhi,High School,0
+32337.01,41782.32,Delhi,Master,0
+156372.82,31511.81,Mumbai,High School,1
+26446.41,51592.17,Mumbai,Bachelor,1
+74549.29,62092.13,Delhi,High School,1
+100403.16,44310.31,Mumbai,Master,0
+21710.27,40563.24,Delhi,PhD,0
+47391.85,41111.96,Mumbai,Bachelor,1
+2704.41,22247.86,Chennai,Bachelor,0
+19887.16,56495.17,Chennai,High School,0
+39833.64,36022.4,Mumbai,High School,0
+16265.04,23523.5,Bangalore,High School,1
+217281.38,59817.12,Chennai,Bachelor,0
+13803.14,42486.21,Delhi,Bachelor,0
+33648.99,52352.67,Chennai,PhD,0
+56243.45,47998.43,Chennai,Bachelor,0
+182941.96,42040.19,Delhi,Bachelor,0
+13732.25,52201.71,Delhi,Bachelor,0
+142432.81,53783.61,Chennai,Bachelor,0
+50462.61,46564.49,Mumbai,High School,1
+20669.62,56591.02,Delhi,Bachelor,0
+75786.19,56582.66,Delhi,Bachelor,1
+59810.23,36039.49,Mumbai,Master,0
+29131.73,56945.62,Bangalore,PhD,1
+53241.86,36303.06,Bangalore,Bachelor,1
+35347.96,40116.98,Chennai,High School,0
+55378.34,59622.05,Delhi,Bachelor,1
+90734.77,53798.18,Mumbai,Bachelor,0
+208395.59,23476.96,Mumbai,High School,1
+16411.61,55942.84,Mumbai,Master,1
+340955.87,51995.59,Delhi,PhD,1
+8629.13,40126.22,Chennai,PhD,0
+43615.67,33852.15,Chennai,High School,1
+84902.92,49906.04,Mumbai,Master,1
+64387.25,53152.53,Bangalore,Master,1
+28548.19,16282.87,Delhi,Bachelor,1
+41459.33,5000.0,Mumbai,Bachelor,0
+32082.87,29284.94,Bangalore,Master,0
+29417.65,45892.24,Mumbai,Bachelor,0
+107411.25,54777.56,Chennai,Bachelor,0
+68946.92,54935.03,Bangalore,Bachelor,0
+26800.07,39051.04,Mumbai,Bachelor,1
+112354.93,40874.95,Bangalore,High School,0
+65929.93,16986.09,Delhi,Master,1
+103917.67,36619.94,Mumbai,Bachelor,0
+88119.07,58714.69,Mumbai,Bachelor,0
+23710.73,27410.11,Mumbai,High School,0
+30200.55,56049.32,Bangalore,Bachelor,1
+97962.74,51242.39,Mumbai,High School,0
+86604.89,43554.56,Bangalore,High School,1
+49068.22,5000.0,Bangalore,Bachelor,1
+55568.56,5000.0,Mumbai,Bachelor,1
+157893.6,37475.46,Chennai,Bachelor,0
+29359.28,49166.4,Delhi,High School,0
+81810.91,38832.3,Delhi,Bachelor,1
+41681.18,31493.8,Mumbai,High School,0
+41104.18,50619.05,Delhi,PhD,0
+134413.68,5000.0,Delhi,Bachelor,1
+105098.47,43854.62,Bangalore,Bachelor,1
+103978.24,39497.11,Mumbai,Bachelor,0
+161895.96,36310.86,Mumbai,High School,0
+50954.16,40821.05,Chennai,PhD,0
+92368.01,32617.11,Bangalore,High School,1
+37817.91,53315.13,Chennai,Bachelor,0
+66938.4,52822.86,Delhi,Bachelor,1
+44473.53,56666.66,Bangalore,High School,1
+54561.0,40515.93,Chennai,Master,1
+85427.18,33949.12,Bangalore,Bachelor,0
+23941.76,40200.77,Bangalore,High School,0
+328708.57,6879.62,Mumbai,High School,1
+20218.69,47070.37,Delhi,High School,0
+16764.33,36254.22,Mumbai,Master,0
+141786.55,56617.21,Mumbai,Bachelor,0
+101953.77,51272.49,Chennai,High School,0
+87683.25,35709.94,Delhi,High School,0
+88017.35,32385.95,Chennai,Bachelor,1
+49451.92,50347.74,Chennai,Bachelor,0
+22297.93,47879.92,Delhi,Bachelor,0
+53530.26,58779.44,Mumbai,Bachelor,0
+27182.61,50980.47,Chennai,High School,0
+120256.96,31429.76,Chennai,Bachelor,1
+43801.64,38076.08,Mumbai,PhD,0
+23785.49,39444.88,Mumbai,High School,0
+37441.35,46361.8,Mumbai,Bachelor,0
+72505.42,46910.78,Bangalore,Bachelor,1
+30104.39,53662.15,Delhi,Bachelor,0
+23855.73,35642.39,Bangalore,High School,1
+62261.39,40831.44,Delhi,Master,1
+62333.12,39599.09,Delhi,Bachelor,1
+31682.81,52544.69,Mumbai,Bachelor,0
+32723.34,61013.03,Mumbai,Bachelor,0
+61612.7,26201.61,Mumbai,High School,1
+13582.02,52126.31,Mumbai,High School,0
+14087.75,55160.27,Mumbai,Master,0
+26191.19,35752.12,Delhi,High School,1
+41261.12,51319.62,Mumbai,Bachelor,0
+66144.37,27199.31,Chennai,Bachelor,0
+188640.6,37276.62,Mumbai,Bachelor,1
+108193.0,35954.3,Mumbai,Bachelor,0
+43296.78,58081.47,Bangalore,Bachelor,0
+49151.55,22955.33,Chennai,High School,0
+20282.26,43388.03,Delhi,Bachelor,1
+49173.81,51100.15,Bangalore,Bachelor,0
+38560.57,45099.52,Bangalore,Bachelor,1
+66851.23,59808.58,Bangalore,High School,1
+23748.4,41038.97,Delhi,Bachelor,0
+79792.93,56243.36,Bangalore,High School,1
+198638.79,58016.83,Delhi,High School,0
+45337.7,58798.94,Bangalore,High School,0
+71776.96,25777.38,Bangalore,Master,1
+93051.45,53412.96,Delhi,High School,1
+34845.52,12333.42,Chennai,High School,0
+61173.02,52629.55,Delhi,High School,0
+50569.88,59552.15,Chennai,High School,0
+54594.41,56761.61,Mumbai,Bachelor,0
+24936.04,22246.98,Delhi,High School,0
+51115.21,48860.93,Delhi,High School,0
+78274.47,52737.2,Chennai,Bachelor,0
+184574.33,44866.51,Delhi,Bachelor,1
+118553.79,39424.89,Delhi,Master,1
+347195.22,25647.84,Mumbai,Bachelor,0
+25063.44,15383.61,Bangalore,High School,1
+109630.06,51007.33,Mumbai,Bachelor,0
+58970.12,57885.48,Delhi,High School,0
+358828.89,51523.52,Delhi,Bachelor,0
+24156.53,43402.7,Delhi,Bachelor,0
+23482.92,55831.8,Delhi,High School,0
+29153.34,55789.3,Mumbai,Bachelor,0
+7392.88,42102.6,Bangalore,Master,1
+31150.91,47602.7,Delhi,PhD,0
+25249.43,46581.98,Mumbai,Bachelor,0
+57247.12,54415.14,Mumbai,Bachelor,1
+68006.51,49681.04,Chennai,High School,1
+270582.42,55574.6,Chennai,High School,0
+117613.57,31434.1,Chennai,Bachelor,0
+29749.42,27846.93,Delhi,Bachelor,0
+22274.66,60056.66,Delhi,Master,1
+77847.38,55609.35,Mumbai,Bachelor,0
+15238.32,58685.8,Delhi,Bachelor,1
+259910.12,53580.13,Mumbai,Bachelor,1
+144534.63,48021.21,Bangalore,Master,1
+32778.24,58475.14,Chennai,Bachelor,1
+10699.55,55558.92,Chennai,Bachelor,0
+169103.02,56086.19,Mumbai,Bachelor,0
+45102.48,44189.47,Bangalore,Master,0
+152331.29,46104.71,Mumbai,High School,0
+11905.95,54139.25,Delhi,Master,1
+29153.81,44628.31,Bangalore,Bachelor,0
+50236.52,52723.39,Delhi,Bachelor,1
+52159.46,50117.1,Mumbai,Bachelor,1
+33346.88,6921.93,Mumbai,Bachelor,1
+87583.09,18997.56,Bangalore,High School,0
+19128.22,57752.44,Bangalore,Master,0
+43986.44,32825.17,Mumbai,Bachelor,0
+55717.21,33235.5,Chennai,Bachelor,1
+79441.27,56942.63,Delhi,High School,0
+94867.05,33070.95,Mumbai,Bachelor,0
+18171.33,12178.19,Bangalore,Bachelor,1
+12570.09,56796.26,Bangalore,Bachelor,1
+157895.3,55530.09,Chennai,Bachelor,1
+67431.05,28301.54,Delhi,Bachelor,1
+25492.52,43232.49,Bangalore,PhD,0
+201958.01,38519.59,Bangalore,Bachelor,1
+55485.97,42153.81,Chennai,Master,1
+144516.04,41338.27,Delhi,High School,1
+53132.54,57887.59,Bangalore,Bachelor,0
+319480.47,27531.74,Bangalore,Bachelor,1
+242700.89,24183.57,Delhi,Bachelor,1
+39963.05,49670.21,Mumbai,Master,0
+119873.48,47539.56,Mumbai,High School,0
+89376.82,58836.8,Bangalore,High School,0
+171364.25,39200.63,Chennai,Master,1
+20980.47,38135.33,Bangalore,High School,1
+92709.35,47766.8,Bangalore,Bachelor,0
+129619.73,25455.8,Mumbai,Bachelor,1
+10269.29,50753.41,Delhi,Master,1
+17237.55,38275.09,Delhi,High School,0
+7978.21,56183.66,Mumbai,High School,1
+39234.52,47294.32,Mumbai,Bachelor,0
+95374.48,49068.09,Delhi,PhD,0
+193280.86,43925.0,Mumbai,Bachelor,1
+53447.95,51102.58,Mumbai,Bachelor,1
+216540.37,48582.61,Delhi,Bachelor,0
+14438.98,32908.06,Mumbai,PhD,0
+10793.87,51741.53,Delhi,Master,0
+47561.81,59153.94,Chennai,PhD,0
+70646.03,5000.0,Chennai,High School,1
+48550.17,17658.39,Bangalore,High School,1
+7778.2,57715.22,Delhi,Bachelor,0
+46146.22,35829.23,Bangalore,Master,0
+15456.05,52342.0,Chennai,High School,0
+91352.74,43354.17,Bangalore,High School,0
+69544.12,42883.4,Delhi,Master,1
+21458.72,49723.95,Bangalore,High School,0
+31485.99,54600.73,Chennai,Bachelor,0
+19273.49,53899.47,Bangalore,Bachelor,0
+47257.52,55521.39,Bangalore,Bachelor,1
+118114.1,54944.74,Mumbai,Master,1
+20591.32,47826.85,Mumbai,Bachelor,0
+78701.71,54093.71,Delhi,Bachelor,0
+31024.93,35985.14,Bangalore,Bachelor,1
+24494.23,14019.46,Delhi,Bachelor,0
+45408.34,53006.86,Mumbai,Bachelor,1
+19693.82,43716.02,Delhi,High School,1
+30378.61,39462.41,Mumbai,High School,0
+17012.24,39952.52,Delhi,High School,1
+293030.19,46017.06,Bangalore,High School,1
+51612.31,34727.21,Bangalore,Bachelor,1
+26636.17,39772.21,Delhi,Master,0
+60618.79,57431.4,Delhi,Master,0
+45192.35,31924.89,Delhi,Master,1
+40982.71,31502.35,Chennai,Bachelor,1
+86901.3,54450.57,Mumbai,Bachelor,0
+98867.44,46515.58,Mumbai,Bachelor,0
+31018.13,35959.19,Delhi,High School,0
+29778.5,49453.24,Bangalore,High School,0
+39035.69,26852.65,Chennai,Bachelor,0
+6298.39,5000.0,Chennai,PhD,0
+12786.0,54616.88,Bangalore,High School,0
+171093.44,58154.16,Delhi,High School,0
+219750.75,42734.36,Delhi,Master,1
+39960.46,35171.46,Delhi,High School,0
+84009.03,49686.03,Delhi,Master,0
+66164.77,15217.96,Delhi,Master,0
+798724.22,57947.74,Delhi,PhD,0
+136953.36,35763.59,Mumbai,Bachelor,0
+44562.7,53221.58,Chennai,Bachelor,0
+21158.39,5024.49,Bangalore,Bachelor,0
+11777.86,5000.0,Chennai,Bachelor,0
+60047.76,54475.43,Bangalore,Bachelor,1
+25312.73,52748.09,Delhi,High School,0
+13901.47,32145.68,Bangalore,Bachelor,0
+27941.34,51272.79,Delhi,Bachelor,0
+18889.95,47563.18,Bangalore,Master,0
+228252.04,46677.25,Mumbai,Master,0
+110553.41,60304.52,Chennai,Bachelor,0
+49642.52,47173.51,Delhi,High School,0
+189421.13,53893.15,Delhi,Master,1
+53605.65,52254.4,Chennai,Bachelor,0
+23031.6,15552.37,Delhi,Master,0
+196927.31,57530.58,Bangalore,Master,1
+81210.3,33195.26,Bangalore,High School,0
+19658.34,50193.03,Chennai,Master,0
+42128.24,50201.3,Chennai,High School,1
+22736.39,33699.56,Chennai,Bachelor,0
+14403.96,42162.41,Delhi,Bachelor,0
+115074.85,38162.48,Chennai,High School,1
+278800.92,29550.79,Bangalore,Master,1
+14201.0,50725.77,Bangalore,High School,0
+82987.94,53274.03,Delhi,High School,0
+27839.19,56578.68,Bangalore,Bachelor,0
+32252.97,54899.51,Chennai,Master,1
+29337.56,5000.0,Chennai,Master,0
+22975.57,21980.76,Mumbai,Master,0
+52231.85,58009.03,Delhi,Bachelor,0
+23669.04,57867.58,Mumbai,Bachelor,0
+63779.65,39778.97,Chennai,High School,1
+47789.63,38597.54,Bangalore,High School,0
+40324.92,38567.6,Mumbai,Bachelor,1
+22092.0,49942.1,Delhi,Bachelor,1
+29752.97,48513.3,Mumbai,Bachelor,0
+98679.29,42356.17,Mumbai,Master,1
+78480.37,45884.55,Chennai,Bachelor,1
+20743.3,61192.92,Bangalore,High School,0
+54675.85,49674.59,Mumbai,High School,0
+98324.32,55081.64,Mumbai,Master,0
+11129.04,44651.24,Delhi,Master,1
+81536.21,5000.0,Chennai,Master,1
+27540.61,41719.67,Mumbai,High School,0
+83559.74,50547.01,Mumbai,PhD,0
+25155.83,30683.28,Mumbai,High School,0
+9851.55,39764.46,Bangalore,High School,0
+11556.35,40846.29,Bangalore,PhD,0
+52211.33,37473.0,Bangalore,High School,1
+63166.45,5000.0,Delhi,Bachelor,1
+22156.66,56844.03,Mumbai,High School,0
+88832.82,39923.92,Delhi,Bachelor,1
+11208.3,55588.76,Bangalore,Master,0
+47113.1,38444.67,Delhi,Bachelor,1
+16812.26,55537.93,Bangalore,Bachelor,0
+27809.3,51560.27,Chennai,High School,1
+52179.09,50359.25,Chennai,Bachelor,0
+23049.66,29360.9,Mumbai,Bachelor,0
+35372.09,30763.58,Mumbai,High School,1
+123678.63,57473.96,Delhi,Bachelor,1
+29749.74,46294.35,Bangalore,High School,0
+106074.95,54046.43,Chennai,Master,1
+18088.69,57541.02,Delhi,Bachelor,0
+80547.48,49536.85,Mumbai,High School,1
+182990.6,50495.86,Chennai,Bachelor,1
+5406.18,5000.0,Chennai,Bachelor,1
+24405.71,40627.79,Delhi,Master,1
+84047.99,58137.72,Bangalore,PhD,1
+41649.2,52877.9,Delhi,Bachelor,0
+69829.34,28205.81,Delhi,Master,1
+29033.09,5000.0,Chennai,Bachelor,0
+54052.39,59069.06,Chennai,High School,0
+43463.15,60172.04,Bangalore,Bachelor,0
+143026.06,5000.0,Delhi,Bachelor,1
+62865.77,41356.18,Chennai,Bachelor,1
+67752.77,55198.19,Mumbai,Master,1
+34512.92,38830.04,Mumbai,Bachelor,1
+32239.02,62155.61,Mumbai,Master,0
+33876.47,46957.42,Delhi,Master,0
+71309.53,42357.09,Bangalore,Bachelor,1
+34231.18,30623.92,Bangalore,Bachelor,1
+64898.23,56147.99,Delhi,Bachelor,0
+323721.55,45887.31,Delhi,PhD,0
+109512.12,55582.45,Delhi,Bachelor,0
+37285.4,43476.61,Delhi,High School,0
+147394.92,55382.07,Bangalore,Bachelor,1
+34631.21,51472.82,Chennai,Bachelor,0
+7986.17,56035.24,Delhi,High School,0
+20181.08,36606.3,Delhi,High School,0
+9284.17,32171.81,Bangalore,Bachelor,0
+36439.77,49726.22,Chennai,Bachelor,0
+50835.73,46511.7,Mumbai,Bachelor,0
+226063.65,58470.32,Mumbai,High School,0
+67104.94,50406.18,Bangalore,High School,0
+41051.71,47621.59,Delhi,Bachelor,0
+105476.48,5000.0,Delhi,Bachelor,0
+6834.62,56735.29,Bangalore,High School,0
+61810.68,14836.09,Bangalore,Bachelor,0
+100063.17,28832.07,Bangalore,Bachelor,1
+13214.24,43092.76,Bangalore,High School,0
+139966.3,5000.0,Bangalore,High School,1
+67807.29,41644.19,Delhi,High School,1
+34407.13,41363.71,Mumbai,Master,0
+88369.48,47657.03,Delhi,Master,1
+385926.36,22611.8,Delhi,Master,1
+58891.85,26220.17,Bangalore,Master,0
+62515.94,53383.84,Chennai,Bachelor,0
+33069.06,57851.53,Chennai,Bachelor,0
+23269.96,49384.17,Bangalore,Bachelor,1
+105564.83,54718.51,Delhi,High School,0
+23139.65,47782.87,Delhi,Bachelor,0
+53326.46,22198.27,Chennai,Master,1
+32528.98,51930.77,Bangalore,Bachelor,0
+76946.07,47531.57,Bangalore,Bachelor,0
+67512.91,46253.86,Bangalore,High School,0
+127206.14,32401.27,Bangalore,Bachelor,1
+31595.3,61265.74,Chennai,Bachelor,0
+39217.99,53228.5,Delhi,Master,1
+20720.75,44130.88,Bangalore,Bachelor,1
+33520.56,23303.09,Chennai,Master,0
+70217.21,52243.51,Delhi,Bachelor,1
+98821.26,60160.63,Bangalore,Master,0
+21803.58,37224.07,Mumbai,Bachelor,0
+109362.53,53462.32,Chennai,Bachelor,0
+169371.93,57172.8,Delhi,Bachelor,0
+72538.28,53373.0,Bangalore,Master,1
+270734.66,49181.12,Delhi,PhD,0
+24918.56,53212.37,Bangalore,High School,0
+16310.9,61156.15,Delhi,High School,0
+10086.27,31272.35,Delhi,PhD,0
+192185.85,21061.79,Mumbai,Bachelor,1
+90102.88,36598.64,Chennai,Bachelor,1
+47560.22,56882.75,Delhi,Bachelor,1
+64327.99,49367.88,Delhi,High School,0
+18157.48,47081.98,Bangalore,Master,0
+451782.01,37627.8,Mumbai,Master,1
+56166.59,36262.29,Chennai,Bachelor,1
+55173.25,54233.39,Delhi,Bachelor,0
+96083.05,45936.63,Bangalore,Master,0
+77086.74,40209.31,Delhi,High School,0
+61161.54,15128.62,Delhi,Master,1
+24547.16,35525.47,Bangalore,High School,0
+76427.65,33728.37,Bangalore,Bachelor,0
+272011.69,45912.18,Bangalore,PhD,1
+167821.52,16687.36,Mumbai,Bachelor,0
+209744.68,41020.35,Mumbai,Bachelor,1
+31561.21,55148.63,Mumbai,Bachelor,0
+20519.56,16926.52,Chennai,Bachelor,0
+44648.24,35661.4,Delhi,High School,1
+52571.57,51799.68,Delhi,PhD,1
+133860.12,52132.22,Mumbai,Master,0
+10900.46,42846.96,Bangalore,Bachelor,1
+198069.56,40106.64,Delhi,Bachelor,0
+43372.08,44334.28,Chennai,High School,0
+34050.0,42617.31,Delhi,High School,0
+20108.23,5834.3,Chennai,Bachelor,0
+11275.72,26890.94,Delhi,Master,0
+104886.26,44430.35,Bangalore,Bachelor,1
+53410.6,30211.42,Chennai,Master,1
+15659.19,56262.67,Delhi,High School,0
+15587.23,41218.2,Chennai,Bachelor,1
+36959.28,5000.0,Mumbai,High School,0
+224559.88,49547.98,Chennai,Bachelor,0
+39582.65,55055.42,Bangalore,High School,0
+12925.4,53596.62,Mumbai,PhD,0
+40079.07,56605.06,Delhi,High School,0
+39117.57,54607.98,Mumbai,Master,0
+4414.19,51112.13,Delhi,Bachelor,0
+47615.47,58270.67,Delhi,PhD,1
+40616.81,46802.13,Delhi,Bachelor,1
+93560.54,31149.09,Mumbai,PhD,1
+264035.48,55465.26,Bangalore,High School,1
+137817.66,12863.23,Delhi,Master,0
+39252.82,39263.09,Delhi,Master,0
+18470.03,27968.16,Bangalore,High School,1
+506764.72,53642.39,Delhi,High School,1
+52737.12,32261.9,Delhi,Bachelor,1
+50630.76,56618.57,Delhi,PhD,0
+48926.07,31432.95,Chennai,Bachelor,0
+59757.77,44699.22,Chennai,Bachelor,1
+43908.09,38486.67,Mumbai,High School,1
+29836.34,57095.32,Bangalore,High School,0
+30564.83,55380.21,Mumbai,Master,1
+48547.61,37657.79,Bangalore,High School,1
+30659.44,55732.37,Bangalore,Bachelor,0
+26323.49,40106.27,Bangalore,Master,1
+55026.24,58087.2,Delhi,High School,0
+39747.36,32407.12,Delhi,Bachelor,0
+193565.64,57404.12,Mumbai,High School,1
+4600.43,38504.32,Chennai,Bachelor,0
+133537.08,37108.74,Bangalore,High School,1
+153469.17,53947.78,Chennai,Master,1
+7736.67,37947.2,Chennai,Bachelor,1
+36730.38,43400.26,Delhi,Bachelor,0
+35792.07,52655.85,Bangalore,Bachelor,0
+14087.14,56114.83,Bangalore,High School,0
+24828.4,60443.6,Chennai,Master,0
+18402.84,42008.45,Chennai,Bachelor,0
+242031.14,58980.47,Bangalore,Bachelor,1
+116063.05,45757.67,Delhi,High School,1
+157027.76,50031.35,Bangalore,Bachelor,0
+95729.63,36044.17,Delhi,High School,1
+18099.36,50430.36,Bangalore,Bachelor,0
+31185.55,50707.17,Chennai,High School,0
+77669.3,34955.45,Mumbai,Master,1
+16644.97,42242.1,Bangalore,High School,0
+94985.25,42541.24,Mumbai,Master,0
+40274.97,40000.42,Mumbai,Master,0
+35683.35,58856.03,Mumbai,High School,0
+94811.15,34426.8,Bangalore,Bachelor,0
+74579.08,37364.53,Chennai,High School,1
+36131.08,56165.24,Chennai,Bachelor,1
+141942.19,49827.03,Delhi,Master,1
+18898.19,47488.52,Chennai,Bachelor,1
+87039.76,48617.33,Bangalore,Bachelor,0
+85269.27,42261.18,Delhi,High School,0
+37842.44,15975.09,Delhi,Bachelor,1
+67056.98,26617.24,Delhi,High School,0
+16216.36,57816.27,Chennai,Master,0
+114852.34,37178.18,Bangalore,Bachelor,0
+42334.87,19367.28,Bangalore,Master,0
+31236.03,41402.57,Delhi,High School,0
+128526.01,26368.88,Bangalore,Bachelor,1
+26525.69,5000.0,Delhi,Bachelor,1
+14075.11,28145.84,Mumbai,High School,0
+12317.94,43567.94,Bangalore,Bachelor,0
+86265.69,27590.16,Delhi,Master,0
+15794.1,45078.63,Chennai,Master,0
+242581.51,46696.29,Delhi,Bachelor,0
+7677.44,50925.26,Bangalore,Bachelor,0
+230173.58,11227.56,Mumbai,High School,1
+60457.38,54850.02,Bangalore,Master,1
+45831.94,12383.53,Delhi,High School,1
+30618.24,39459.21,Delhi,PhD,0
+71610.77,58241.12,Chennai,Bachelor,1
+48334.8,41716.94,Delhi,Bachelor,0
+134962.19,60861.42,Chennai,Master,0
+55413.76,37111.14,Chennai,High School,1
+57242.38,31550.6,Delhi,Bachelor,1
+36045.14,53109.7,Delhi,Bachelor,0
+47502.01,45374.0,Bangalore,High School,0
+65959.74,5000.0,Chennai,Bachelor,1
+10728.15,52366.54,Chennai,Bachelor,0
+14859.75,56422.55,Mumbai,Master,0
+97608.12,14218.3,Bangalore,High School,0
+58311.65,5000.0,Delhi,PhD,0
+42369.89,46953.37,Chennai,High School,0
+50836.45,28460.43,Chennai,High School,0
+68364.01,18964.87,Delhi,High School,0
+30760.74,54295.84,Delhi,High School,0
+24817.49,52184.47,Delhi,High School,0
+59637.45,22394.48,Delhi,PhD,1
+20728.04,6449.96,Chennai,Bachelor,1
+72200.75,38307.35,Mumbai,High School,0
+10801.64,55276.93,Delhi,High School,0
+126249.88,5000.0,Mumbai,Master,0
+76505.36,52587.65,Chennai,Master,1
+62956.86,50763.98,Bangalore,High School,1
+121079.2,42125.83,Mumbai,High School,1
+223844.14,11574.72,Delhi,High School,1
+124580.99,32274.49,Chennai,High School,0
+9537.55,40934.54,Chennai,High School,0
+15806.22,40104.83,Delhi,Bachelor,1
+28493.79,46443.28,Delhi,High School,1
+51187.99,38395.79,Delhi,Bachelor,1
+79671.83,61936.13,Delhi,High School,0
+26019.69,50374.79,Bangalore,PhD,0
+59152.16,43687.43,Chennai,Master,1
+25334.79,56958.13,Mumbai,Bachelor,0
+28836.93,41410.59,Chennai,Bachelor,0
+14097.93,49400.45,Mumbai,Bachelor,0
+21782.63,5000.0,Bangalore,Bachelor,1
+14813.02,10864.75,Bangalore,Master,0
+20774.72,52008.34,Delhi,Bachelor,0
+129063.0,48803.66,Mumbai,Master,1
+21275.67,47908.04,Bangalore,PhD,0
+534411.89,51879.05,Delhi,Bachelor,0
+77945.44,44367.05,Mumbai,Bachelor,0
+59049.47,54413.56,Mumbai,High School,1
+23092.34,56842.47,Chennai,High School,0
+93906.72,37165.68,Mumbai,Bachelor,0
+29783.33,37032.52,Chennai,High School,0
+55803.23,54749.25,Mumbai,Master,1
+500746.05,31312.71,Bangalore,High School,1
+45858.89,53431.71,Bangalore,Bachelor,0
+140663.29,43510.01,Chennai,Bachelor,0
+26553.57,33035.93,Mumbai,Bachelor,0
+48450.05,47418.57,Bangalore,Bachelor,0
+246101.38,40253.34,Bangalore,Master,0
+28438.75,52460.66,Mumbai,Bachelor,1
+255501.1,49312.8,Delhi,Bachelor,1
+94537.8,49415.6,Delhi,High School,0
+30138.48,54326.47,Delhi,Bachelor,0
+88339.73,49095.06,Chennai,Master,0
+119979.63,58911.88,Delhi,Bachelor,0
+87501.15,52236.82,Delhi,Master,1
+12168.14,50254.19,Bangalore,Bachelor,0
+25987.08,49955.0,Mumbai,High School,0
+40015.07,49799.57,Mumbai,High School,0
+46760.22,47761.65,Delhi,Bachelor,0
+87411.59,39821.74,Chennai,Bachelor,0
+58671.49,31800.54,Chennai,Master,1
+15032.48,53578.06,Chennai,High School,0
+70400.55,57246.6,Mumbai,Bachelor,1
+86621.68,56320.7,Bangalore,Bachelor,0
+82750.86,52201.48,Delhi,Bachelor,0
+132254.18,50930.25,Delhi,High School,0
+105906.11,54500.01,Delhi,High School,0
+75587.06,57734.84,Bangalore,High School,0
+46940.17,51919.96,Mumbai,High School,1
+11213.95,44562.52,Mumbai,High School,0
+73602.53,37699.84,Delhi,High School,0
+60276.48,52815.37,Mumbai,Bachelor,1
+63844.09,51519.11,Bangalore,Bachelor,1
+15846.51,55590.85,Mumbai,PhD,0
+18898.3,47391.81,Bangalore,High School,0
+129006.21,55060.95,Delhi,Bachelor,0
+48251.33,38115.2,Chennai,Bachelor,1
+92330.42,59843.46,Bangalore,High School,0
+51290.7,51005.97,Delhi,Master,0
+51357.12,42776.58,Delhi,High School,0
+116335.52,44528.04,Bangalore,PhD,1
+31424.34,5000.0,Chennai,Master,0
+54518.04,42006.04,Mumbai,Bachelor,0
+32982.44,56086.8,Delhi,Bachelor,0
+33817.43,48163.54,Chennai,Bachelor,0
+37855.19,59808.62,Bangalore,Bachelor,0
+61065.28,47987.44,Mumbai,Bachelor,1
+32497.05,54953.42,Mumbai,High School,0
+154810.77,30836.94,Delhi,High School,1
+22351.12,52747.95,Bangalore,Bachelor,0
+42259.89,48412.73,Mumbai,Bachelor,0
+33658.48,53463.9,Chennai,Master,1
+183883.63,5000.0,Mumbai,High School,1
+59675.54,50624.84,Mumbai,Master,1
+126555.77,5000.0,Bangalore,High School,0
+13131.56,33174.18,Chennai,Bachelor,1
+63584.41,39775.43,Chennai,Bachelor,1
+111351.37,41699.26,Mumbai,Bachelor,1
+53843.33,41286.85,Bangalore,High School,0
+130445.48,60330.74,Bangalore,Bachelor,0
+31389.18,50192.21,Mumbai,Master,1
+177760.24,32475.87,Delhi,Bachelor,0
+395848.4,47605.68,Mumbai,Bachelor,1
+36070.25,58268.9,Delhi,Master,0
+33484.1,47648.33,Chennai,Master,1
+184946.95,5662.25,Mumbai,Bachelor,0
+207190.35,21914.09,Chennai,High School,0
+31232.18,47764.54,Mumbai,Master,0
+34255.76,29963.64,Bangalore,Bachelor,0
+38799.87,51073.17,Mumbai,High School,0
+14909.78,59538.84,Delhi,High School,0
+21872.63,55576.13,Mumbai,Master,0
+20252.87,11247.3,Delhi,High School,1
+25053.29,50141.43,Bangalore,PhD,0
+48463.29,49819.63,Mumbai,High School,1
+61732.85,50407.83,Bangalore,Master,0
+201839.63,5000.0,Delhi,Bachelor,1
+20358.62,8821.0,Delhi,Bachelor,0
+121257.11,5000.0,Mumbai,Master,1
+41241.01,48896.44,Chennai,Bachelor,1
+47822.95,42861.71,Bangalore,Bachelor,0
+91776.89,58774.08,Mumbai,High School,1
+18202.76,14386.12,Mumbai,High School,0
+70540.84,57051.95,Delhi,High School,1
+58080.5,44050.5,Chennai,Bachelor,1
+77884.67,56650.01,Bangalore,High School,0
+64862.83,53080.63,Delhi,High School,0
+455681.06,54982.96,Bangalore,Bachelor,0
+28164.35,53238.18,Delhi,Bachelor,0
+31004.3,52658.27,Chennai,Master,1
+28536.86,52737.04,Delhi,High School,0
+30328.67,32743.95,Bangalore,High School,0
+28173.3,56694.09,Delhi,PhD,0
+145785.72,43995.2,Bangalore,High School,1
+179554.15,22777.93,Bangalore,Master,1
+29914.74,52432.25,Bangalore,Master,1
+23639.12,54110.18,Bangalore,Master,1
+76424.02,49682.37,Chennai,High School,1
+30417.63,23892.96,Delhi,Master,1
+88381.41,44380.3,Mumbai,Master,1
+60018.55,52589.76,Delhi,Bachelor,0
+12779.64,39743.45,Chennai,Bachelor,0
+201296.25,56679.13,Mumbai,High School,0
+251718.88,35999.2,Bangalore,High School,1
+28803.97,41039.73,Bangalore,Bachelor,0
+35272.08,50489.02,Delhi,Bachelor,0
+64670.29,54992.23,Delhi,Bachelor,1
+67561.22,55323.55,Delhi,Bachelor,1
+90442.37,38826.59,Mumbai,Bachelor,0
+305273.19,22450.93,Delhi,Bachelor,1
+42639.05,53478.02,Delhi,Master,0
+24374.94,40190.11,Chennai,High School,1
+14449.15,60823.59,Chennai,Bachelor,0
+25898.52,53045.12,Mumbai,High School,0
+48531.29,47387.12,Mumbai,Bachelor,0
+251420.06,55478.11,Delhi,Master,0
+31380.07,55655.23,Bangalore,PhD,0
+61156.26,53721.19,Chennai,High School,0
+49266.4,42914.82,Delhi,PhD,0
+145703.97,49212.14,Delhi,High School,1
+486026.03,61243.04,Bangalore,Bachelor,0
+31007.87,60920.88,Bangalore,High School,0
+32185.87,53229.86,Delhi,Master,0
+127966.41,40202.26,Bangalore,Bachelor,1
+92362.9,62369.65,Mumbai,Bachelor,1
+263501.64,52313.22,Mumbai,Master,1
+84568.21,52546.54,Bangalore,High School,1
+36185.56,17429.72,Chennai,High School,0
+85081.73,51252.51,Mumbai,Master,1
+135619.91,41465.58,Chennai,Bachelor,0
+104632.79,45129.19,Mumbai,High School,1
+78930.65,60948.95,Bangalore,Bachelor,0
+130585.77,34181.45,Mumbai,Bachelor,1
+143221.02,44070.72,Chennai,High School,0
+173463.31,39308.51,Chennai,High School,0
+89645.4,5000.0,Delhi,High School,1
+43017.92,60815.06,Chennai,Bachelor,0
+57057.83,5000.0,Chennai,Master,1
+148099.02,50280.72,Bangalore,PhD,0
+23969.47,42989.89,Delhi,Bachelor,1
+69674.12,47564.42,Chennai,High School,1
+35093.58,51624.75,Chennai,Master,0
+51310.39,52920.75,Delhi,Bachelor,0
+158005.47,42330.33,Chennai,High School,1
+59383.25,58776.39,Delhi,Master,0
+52133.93,34559.4,Delhi,Master,0
+14704.48,51549.24,Mumbai,Master,1
+97871.09,56839.35,Bangalore,Master,1
+89385.53,51863.92,Bangalore,High School,0
+350356.87,21603.61,Delhi,High School,0
+37902.71,52625.51,Chennai,Bachelor,0
+60901.53,41866.33,Delhi,High School,0
+62581.41,54209.11,Delhi,Bachelor,1
+206795.62,34402.54,Delhi,Master,1
+45890.45,35914.87,Bangalore,Master,0
+64273.18,5000.0,Chennai,Bachelor,1
+86412.29,49081.58,Bangalore,Master,0
+59143.77,36255.97,Chennai,Master,0
+33456.05,45720.95,Delhi,Bachelor,0
+59543.31,20411.23,Mumbai,High School,1
+131405.98,54117.14,Mumbai,High School,0
+19849.11,34677.94,Mumbai,Bachelor,1
+56356.39,49293.36,Delhi,High School,0
+26626.69,47790.87,Bangalore,High School,1
+146579.06,45805.99,Mumbai,High School,0
+12694.32,43523.91,Bangalore,Bachelor,1
+30234.79,48406.49,Mumbai,Master,0
+70211.61,44080.72,Delhi,High School,1
+204587.27,10671.2,Bangalore,Master,1
+47127.08,29119.77,Delhi,Bachelor,0
+30336.25,31924.93,Chennai,High School,0
+271799.42,51914.64,Bangalore,Master,1
+13582.88,55340.87,Delhi,Bachelor,0
+6910.88,29869.06,Chennai,Bachelor,1
+74294.43,31764.97,Mumbai,Master,1
+31822.52,14536.96,Delhi,High School,0
+19943.7,53206.07,Bangalore,Bachelor,0
+94589.25,49671.9,Delhi,High School,1
+62267.75,59287.07,Chennai,Master,1
+30094.8,51324.01,Chennai,Bachelor,0
+15795.88,28839.36,Chennai,Bachelor,1
+109643.54,52014.61,Mumbai,High School,0
+89765.8,36817.32,Mumbai,Bachelor,1
+45730.47,49247.18,Bangalore,Master,0
+263484.96,42416.68,Delhi,Bachelor,1
+19085.84,56939.4,Mumbai,Bachelor,0
+12667.64,45893.7,Mumbai,Bachelor,0
+26824.23,62782.07,Delhi,Master,0
+47990.14,49207.35,Mumbai,Bachelor,0
+62241.91,59250.92,Chennai,Master,0
+40241.97,23130.07,Chennai,Master,1
+68639.82,33982.33,Delhi,Bachelor,1
+16210.15,40045.82,Delhi,High School,1
+183352.61,12800.33,Delhi,Bachelor,1
+46436.55,55736.05,Chennai,Master,1
+136672.73,5000.0,Delhi,High School,0
+68065.86,30432.78,Bangalore,Bachelor,0
+75422.14,49746.9,Delhi,Master,1
+83497.24,25142.69,Bangalore,Bachelor,1
+74810.68,56702.4,Mumbai,Bachelor,1
+89163.65,54893.17,Bangalore,High School,1
+165382.39,53244.06,Delhi,High School,1
+59673.74,52570.32,Bangalore,Master,1
+94644.37,56408.43,Delhi,High School,0
+46120.65,22626.21,Bangalore,High School,1
+182751.72,49983.14,Chennai,Master,0
+27201.44,41962.46,Delhi,Bachelor,0
+252868.45,52925.14,Chennai,PhD,0
+48225.16,59967.34,Bangalore,PhD,1
+13795.26,43254.39,Delhi,High School,0
+56110.16,60280.07,Mumbai,High School,0
+27087.61,47844.34,Delhi,Master,0
+106548.7,58092.89,Bangalore,Bachelor,1
+27789.59,5000.0,Bangalore,High School,0
+33463.59,30933.12,Delhi,Master,0
+9128.82,45616.94,Mumbai,High School,0
+33279.69,21403.96,Chennai,Master,1
+5643.65,55046.24,Chennai,High School,1
+12019.26,38667.41,Mumbai,High School,1
+99126.44,44297.82,Chennai,High School,1
+101417.25,43346.09,Mumbai,PhD,0
+73327.43,21139.28,Mumbai,Bachelor,1
+20941.74,34942.38,Chennai,Master,0
+47898.43,42968.39,Mumbai,Bachelor,0
+49838.15,59348.33,Mumbai,Bachelor,0
+17628.11,55807.95,Mumbai,High School,0
+193462.07,48481.59,Chennai,Bachelor,0
+110128.63,45784.21,Chennai,Bachelor,1
+40982.91,56840.12,Mumbai,Bachelor,0
+51224.62,5000.0,Mumbai,High School,0
+60314.2,12968.59,Mumbai,PhD,1
+7960.26,37564.04,Bangalore,High School,0
+40027.37,46069.06,Delhi,PhD,0
+27064.89,49484.72,Bangalore,High School,0
+20298.87,55755.5,Mumbai,Bachelor,0
+38823.77,45996.79,Mumbai,Bachelor,1
+252129.0,43440.89,Delhi,Bachelor,1
+89012.92,57453.08,Delhi,Bachelor,1
+29903.09,42256.14,Chennai,Bachelor,1
+83709.08,48853.71,Mumbai,Bachelor,1
+176168.85,60265.36,Delhi,Master,1
+114915.07,55143.78,Mumbai,Bachelor,0
+52756.68,51524.84,Mumbai,Master,1
+27932.19,5000.0,Delhi,High School,0
+93730.53,38425.32,Mumbai,Bachelor,1
+71247.51,57932.3,Mumbai,Bachelor,0
+111910.22,39705.24,Bangalore,Bachelor,1
+88559.76,58906.28,Mumbai,Bachelor,1
+128588.89,26592.39,Mumbai,Bachelor,0
+30886.26,52056.62,Chennai,High School,0
+163641.44,48141.98,Mumbai,High School,1
+59731.69,19467.36,Delhi,High School,1
+323680.78,57689.17,Delhi,Bachelor,0
+26889.99,58230.76,Mumbai,Bachelor,0
+238505.04,53036.6,Bangalore,PhD,1
+59748.42,27765.46,Delhi,Master,1
+27819.77,58785.85,Bangalore,High School,0
+32347.14,62520.98,Delhi,Master,0
+37476.36,51874.45,Mumbai,Master,0
+73242.24,38514.69,Bangalore,Bachelor,1
+80043.88,23297.75,Mumbai,Bachelor,1
+29835.32,51984.27,Bangalore,PhD,1
+48915.97,51504.27,Delhi,Bachelor,1
+343802.14,24629.38,Bangalore,Master,1
+236704.34,60137.5,Delhi,High School,0
+74048.06,51286.14,Chennai,High School,1
+51739.74,44433.4,Delhi,Bachelor,0
+55703.96,40348.82,Chennai,Bachelor,1
+86850.58,52402.39,Mumbai,Master,1
+19915.73,46560.77,Bangalore,PhD,1
+39661.63,61846.41,Mumbai,Bachelor,1
+11137.27,53645.68,Chennai,High School,0
+71616.38,40274.68,Delhi,Master,0
+89523.34,55949.99,Delhi,Bachelor,0
+32367.51,46241.24,Mumbai,High School,0
+206151.45,40389.27,Delhi,Bachelor,1
+16590.56,50837.65,Delhi,Master,0
+13384.34,44718.76,Chennai,Master,0
+61192.81,55825.21,Chennai,Bachelor,0
+128305.16,49423.8,Mumbai,Bachelor,0
+227592.77,37408.08,Chennai,PhD,0
+33083.25,44909.38,Mumbai,Bachelor,0
+132004.47,53061.13,Delhi,Bachelor,0
+48296.8,43941.1,Bangalore,High School,0
+42805.15,35316.28,Bangalore,Master,0
+110754.6,60713.75,Chennai,High School,1
+89937.38,24482.92,Delhi,High School,1
+12100.78,50775.11,Bangalore,Bachelor,0
+188841.74,40754.9,Delhi,High School,1
+173140.82,23385.67,Delhi,Bachelor,1
+28474.72,58109.11,Delhi,High School,1
+71396.31,54045.36,Chennai,Bachelor,1
+77995.43,50292.06,Chennai,High School,0
+63220.55,54600.64,Bangalore,High School,1
+30470.18,5000.0,Mumbai,High School,0
+27318.44,55118.83,Mumbai,PhD,1
+48863.19,52799.35,Delhi,Master,0
+143664.27,44231.36,Delhi,High School,0
+81553.82,57240.89,Mumbai,Master,1
+35818.7,51354.7,Bangalore,Bachelor,0
+100138.26,42520.83,Mumbai,PhD,1
+3851.01,50741.27,Delhi,Bachelor,0
+140599.04,48139.04,Delhi,Bachelor,0
+10446.64,52573.4,Delhi,High School,0
+36083.16,58764.6,Mumbai,Bachelor,0
+18252.83,42455.59,Chennai,PhD,1
+15592.81,5000.0,Bangalore,Bachelor,0
+142133.55,46766.64,Chennai,High School,0
+32821.77,43925.65,Mumbai,High School,0
+68297.73,35767.6,Mumbai,Master,1
+47932.53,57597.33,Delhi,Bachelor,1
+76811.91,5728.3,Chennai,Bachelor,1
+53579.3,44261.29,Bangalore,PhD,1
+15757.71,8588.58,Delhi,High School,1
+122567.65,54224.78,Mumbai,Bachelor,1
+32061.06,5000.0,Mumbai,Master,0
+12318.46,34031.19,Bangalore,Bachelor,1
+34012.2,38490.59,Chennai,High School,0
+193003.21,43796.02,Bangalore,Bachelor,0
+107471.16,49874.2,Mumbai,Master,0
+36533.74,23289.87,Delhi,High School,0
+36513.83,45141.67,Delhi,PhD,0
+37432.95,60457.75,Delhi,Master,1
+324114.29,56765.43,Delhi,High School,0
+70510.73,49195.74,Bangalore,Master,0
+73630.58,42637.82,Bangalore,Bachelor,1
+126378.09,47699.08,Delhi,Bachelor,1
+61987.53,22748.02,Chennai,Master,0
+39602.22,60406.69,Delhi,PhD,0
+41900.93,45096.74,Mumbai,High School,0
+46879.57,59958.08,Delhi,Bachelor,0
+48352.74,34364.17,Mumbai,Bachelor,0
+96244.28,48151.68,Delhi,Bachelor,1
+52393.07,40854.48,Mumbai,Bachelor,1
+96679.28,55167.89,Mumbai,High School,0
+46496.55,20920.39,Chennai,Bachelor,0
+53666.81,27678.15,Delhi,Bachelor,1
+8278.34,37918.45,Delhi,High School,0
+114059.23,48560.13,Delhi,Master,1
+68296.78,37988.25,Bangalore,Master,1
+122760.11,54025.8,Delhi,Bachelor,0
+3689.14,32238.28,Chennai,High School,0
+327523.64,7888.34,Mumbai,Bachelor,1
+44097.03,26915.81,Mumbai,High School,0
+135556.37,54198.88,Bangalore,High School,1
+19611.33,41818.28,Delhi,Master,0
+86792.44,57719.7,Delhi,High School,1
+19374.33,38129.07,Mumbai,High School,1
+28520.72,40324.91,Bangalore,High School,1
+279961.26,60137.75,Delhi,High School,0
+42115.21,57018.53,Delhi,High School,0
+60807.47,50236.25,Chennai,PhD,0
+109407.99,50418.26,Delhi,High School,1
+78111.45,57280.59,Chennai,High School,0
+57248.42,41366.7,Bangalore,High School,0
+69441.72,43535.44,Delhi,PhD,0
+434891.7,49288.65,Delhi,Bachelor,0
+47473.24,54395.08,Delhi,Bachelor,0
+59920.11,27495.28,Bangalore,Master,1
+128716.45,7650.92,Bangalore,Bachelor,1
+135232.61,52168.81,Bangalore,Bachelor,0
+145525.35,53273.46,Chennai,High School,1
+88843.84,39613.51,Bangalore,Bachelor,1
+17873.49,50990.28,Delhi,Bachelor,1
+217480.98,48673.43,Delhi,Bachelor,1
+17819.83,34791.33,Chennai,High School,1
+65653.76,60270.49,Delhi,Bachelor,0
+25360.04,19705.6,Delhi,High School,0
+47195.5,46060.53,Bangalore,High School,0
+67215.86,51504.9,Mumbai,Bachelor,0
+66769.37,48089.95,Chennai,PhD,0
+73094.39,47467.22,Bangalore,Bachelor,0
+213655.12,59642.32,Delhi,Bachelor,0
+75203.96,13744.21,Chennai,High School,1
+40136.33,46471.69,Delhi,High School,1
+119068.8,40455.86,Mumbai,High School,1
+145845.3,29961.18,Mumbai,Bachelor,1
+16563.08,56192.9,Delhi,High School,0
+85599.81,39926.74,Mumbai,High School,0
+93979.67,50075.22,Delhi,Master,0
+38252.77,32439.13,Mumbai,High School,0
+172458.93,60939.47,Mumbai,Bachelor,0
+43683.61,48206.27,Bangalore,Bachelor,1
+55982.65,53196.49,Chennai,Bachelor,1
+42788.03,40639.67,Delhi,Bachelor,0
+50706.0,39986.82,Mumbai,Bachelor,0
+18641.22,54031.43,Mumbai,High School,0
+13680.58,54066.3,Delhi,Master,0
+209993.71,48341.74,Bangalore,Master,1
+23330.41,55390.79,Bangalore,High School,0
+20486.58,32548.06,Delhi,High School,1
+7199.21,51099.47,Mumbai,Master,0
+28133.4,62647.5,Delhi,Bachelor,0
+15199.19,51154.0,Bangalore,Bachelor,0
+219167.58,56299.41,Delhi,Bachelor,1
+124071.55,59254.15,Chennai,High School,1
+26915.11,57430.15,Bangalore,Bachelor,0
+379636.89,45567.29,Mumbai,Bachelor,1
+120978.39,19376.62,Bangalore,High School,1
+37325.43,42587.9,Chennai,Bachelor,0
+5272.78,53226.88,Bangalore,Master,1
+393024.25,40233.18,Delhi,Bachelor,1
+14316.43,51947.12,Mumbai,High School,0
+11372.11,53930.97,Chennai,Bachelor,0
+125503.84,56976.96,Bangalore,Master,1
+449349.14,59719.13,Bangalore,Master,0
+173793.63,51299.6,Chennai,Bachelor,1
+83058.17,44894.18,Chennai,High School,1
+85396.23,48177.2,Chennai,Master,1
+107780.53,51547.1,Delhi,Bachelor,0
+98993.95,55715.47,Mumbai,High School,0
+64398.82,37446.1,Bangalore,Bachelor,1
+54915.96,57840.93,Bangalore,Bachelor,0
+47261.18,34012.27,Bangalore,Bachelor,1
+25367.15,56075.33,Delhi,High School,0
+38838.63,54370.14,Bangalore,Bachelor,0
+10895.63,58552.95,Bangalore,Master,1
+45764.9,52328.06,Delhi,Master,0
+20538.29,29373.47,Mumbai,Master,1
+18518.91,39175.82,Delhi,PhD,0
+58787.41,29295.84,Mumbai,High School,1
+175006.84,39057.79,Delhi,Bachelor,1
+114263.59,56687.15,Mumbai,Bachelor,1
+12165.12,50720.58,Mumbai,Master,0
+20519.13,54574.73,Bangalore,High School,0
+116596.25,19314.81,Bangalore,PhD,1
+20651.43,57211.72,Chennai,Bachelor,1
+40847.81,31351.78,Delhi,Master,0
+82028.76,31369.3,Delhi,High School,0
+20915.97,5000.0,Chennai,High School,1
+54974.03,51487.82,Delhi,Master,1
+15050.33,35363.78,Chennai,High School,1
+29101.57,5000.0,Chennai,Master,1
+66674.78,53318.31,Mumbai,High School,0
+11921.32,58853.74,Chennai,Bachelor,0
+74325.22,60172.33,Delhi,Bachelor,0
+49124.06,35355.69,Mumbai,Bachelor,0
+82208.93,60182.93,Bangalore,Bachelor,0
+61163.2,51129.72,Mumbai,Bachelor,0
+170672.99,40553.4,Chennai,High School,1
+55964.92,44508.82,Delhi,High School,0
+33972.73,40755.66,Mumbai,Bachelor,0
+55817.69,43969.48,Bangalore,Bachelor,0
+81531.65,20938.88,Bangalore,Master,1
+52247.76,55758.07,Delhi,Bachelor,1
+51860.4,53793.71,Mumbai,Bachelor,1
+26581.9,54519.57,Chennai,Bachelor,0
+27533.74,32814.82,Delhi,High School,0
+14149.49,31193.58,Chennai,Bachelor,0
+241445.09,40314.17,Bangalore,PhD,1
+16322.53,23784.38,Bangalore,Master,1
+26800.17,57108.84,Bangalore,Bachelor,1
+26192.06,7174.57,Delhi,Bachelor,0
+111883.14,12718.7,Bangalore,Master,1
+38342.86,34876.45,Chennai,Bachelor,0
+153698.19,5000.0,Mumbai,High School,1
+27272.57,59355.2,Chennai,High School,0
+64271.59,52530.84,Mumbai,Bachelor,0
+23575.56,54241.9,Delhi,PhD,0
+344694.05,35173.2,Mumbai,Bachelor,1
+17170.36,56369.75,Chennai,High School,0
+66079.7,34411.68,Mumbai,High School,0
+88448.65,18018.82,Chennai,Master,1
+72562.06,35716.81,Chennai,Master,0
+42320.18,43044.94,Mumbai,Bachelor,1
+44486.44,55985.27,Delhi,Bachelor,0
+52010.9,55049.96,Bangalore,High School,0
+43803.83,21831.76,Mumbai,Master,1
+119046.5,33940.15,Bangalore,Master,0
+365583.13,47484.99,Mumbai,High School,1
+30273.73,51565.38,Mumbai,Master,0
+14573.43,60640.72,Bangalore,High School,1
+46181.03,56493.97,Mumbai,High School,0
+509668.96,5000.0,Mumbai,High School,0
+24257.26,57654.76,Mumbai,High School,1
+218596.62,44446.99,Mumbai,Bachelor,1
+226320.86,28563.08,Mumbai,Bachelor,0
+30380.28,57522.3,Chennai,Bachelor,0
+83438.33,44515.49,Mumbai,Bachelor,0
+216497.71,30294.0,Mumbai,High School,1
+35545.3,46841.82,Bangalore,High School,1
+41629.15,5000.0,Delhi,Bachelor,0
+29621.79,59402.32,Delhi,Bachelor,0
+20060.28,27231.26,Chennai,High School,0
+27873.41,49050.77,Bangalore,Master,0
+16617.84,34101.25,Bangalore,Master,0
+51557.52,40484.96,Bangalore,Master,1
+25004.28,54225.71,Delhi,Bachelor,0
+61709.03,43870.52,Bangalore,High School,0
+12326.07,60097.03,Mumbai,Bachelor,0
+67344.09,37542.34,Mumbai,High School,0
+105868.64,42822.4,Mumbai,Bachelor,1
+8311.67,36853.19,Delhi,High School,0
+70012.51,27247.39,Delhi,Master,1
+150946.44,41717.42,Chennai,High School,1
+16833.08,45033.93,Mumbai,Master,0
+225278.67,55285.46,Mumbai,Master,0
+72903.75,54066.66,Delhi,Bachelor,1
+26509.74,23690.77,Delhi,Master,1
+47552.33,15804.28,Bangalore,Bachelor,0
+82641.93,49763.49,Mumbai,Master,0
+53539.94,46410.93,Mumbai,Bachelor,0
+81199.04,55444.26,Delhi,Master,0
+21832.87,24092.99,Bangalore,Bachelor,1
+58232.74,36321.05,Delhi,PhD,1
+14008.72,5000.0,Delhi,Bachelor,0
+45237.19,55266.77,Mumbai,Bachelor,0
+22164.82,51184.84,Delhi,Master,1
+25791.53,43834.26,Delhi,Master,0
+152095.23,36698.51,Bangalore,Bachelor,0
+133513.44,49522.24,Bangalore,High School,0
+86508.9,55230.17,Chennai,Bachelor,1
+18707.82,31640.02,Mumbai,PhD,1
+37609.45,35180.38,Delhi,Master,0
+148979.83,55521.94,Delhi,Master,0
+56801.81,18512.58,Chennai,High School,0
+403194.71,24166.17,Bangalore,Bachelor,1
+71236.77,45225.78,Bangalore,Bachelor,1
+59434.04,45968.6,Delhi,Master,1
+37857.09,38471.7,Mumbai,High School,1
+56385.38,55152.87,Delhi,Master,0
+43588.8,46617.6,Bangalore,Bachelor,1
+94568.16,61010.35,Chennai,High School,0
+118280.05,31755.45,Chennai,Bachelor,1
+24646.44,58966.5,Mumbai,High School,0
+15088.21,13439.0,Mumbai,Bachelor,0
+9577.71,50713.89,Chennai,High School,0
+78981.62,49478.83,Bangalore,High School,1
+18522.63,53400.55,Delhi,Master,1
+7202.45,50286.81,Mumbai,High School,1
+70933.57,16413.6,Delhi,High School,0
+471407.34,61845.26,Mumbai,Bachelor,1
+49727.55,20997.45,Mumbai,Bachelor,0
+106342.47,42194.81,Bangalore,Master,1
+53821.31,57267.31,Mumbai,Bachelor,1
+45742.25,56520.49,Delhi,Master,0
+114341.76,6802.24,Mumbai,Bachelor,0
+38504.53,55713.92,Chennai,High School,0
+63603.98,56971.27,Bangalore,High School,0
+66789.84,25095.39,Mumbai,Bachelor,0
+27405.44,42186.36,Chennai,Bachelor,0
+122102.53,55664.5,Chennai,Master,0
+42715.39,44052.71,Delhi,Bachelor,1
+25326.53,56221.15,Delhi,Bachelor,0
+81035.06,26101.85,Bangalore,High School,1
+22273.59,27161.34,Chennai,High School,0
+51284.37,38878.05,Chennai,Bachelor,1
+49591.32,41814.33,Chennai,Bachelor,1
+132864.39,5000.0,Bangalore,Bachelor,0
+76650.14,47003.95,Mumbai,High School,1
+48886.38,57129.99,Delhi,Bachelor,0
+104377.35,40344.41,Delhi,Master,0
+174724.39,5000.0,Mumbai,High School,0
+82603.52,56153.34,Bangalore,Bachelor,0
+50468.04,51023.91,Bangalore,PhD,0
+15353.91,40907.9,Bangalore,Bachelor,1
+19171.42,47666.55,Delhi,Bachelor,1
+37989.92,55950.05,Bangalore,High School,1
+28889.03,25524.81,Delhi,Bachelor,1
+42256.1,5000.0,Mumbai,High School,0
+52615.35,44351.06,Bangalore,PhD,1
+80539.4,55440.61,Bangalore,Master,1
+46926.1,58913.34,Chennai,Master,0
+77468.74,43437.52,Delhi,Master,0
+52987.18,26018.55,Mumbai,Bachelor,1
+8449.46,39896.95,Mumbai,Bachelor,0
+21469.24,47030.26,Mumbai,Master,0
+43918.88,53084.01,Chennai,PhD,0
+16832.27,56619.92,Bangalore,Bachelor,0
+85794.84,32711.93,Chennai,PhD,1
+198283.68,30875.63,Delhi,Bachelor,1
+149741.23,58899.56,Chennai,Bachelor,0
+41261.28,10223.62,Delhi,Bachelor,1
+191268.18,38097.44,Chennai,High School,1
+57158.25,17053.39,Mumbai,High School,1
+36916.02,57965.11,Mumbai,High School,0
+28788.06,58080.84,Mumbai,Bachelor,0
+38084.23,48782.46,Chennai,Bachelor,0
+35256.99,39406.95,Delhi,Bachelor,1
+58288.08,5000.0,Mumbai,PhD,0
+57774.04,35493.02,Chennai,Bachelor,1
+50137.26,49812.16,Mumbai,Bachelor,0
+74089.02,56224.94,Delhi,High School,1
+145999.71,22420.53,Mumbai,High School,0
+117521.55,55837.88,Mumbai,Master,1
+13139.39,8722.22,Chennai,Bachelor,0
+5020.32,50249.12,Bangalore,Master,0
+115921.23,10195.12,Mumbai,High School,0
+14611.84,36048.45,Chennai,Bachelor,0
+40842.95,48645.96,Mumbai,High School,0
+17442.7,52486.67,Delhi,High School,0
+9877.31,50821.37,Delhi,High School,0
+81397.08,40706.87,Mumbai,High School,0
+99014.14,46001.1,Delhi,Bachelor,0
+29759.95,53121.81,Chennai,High School,0
+4855.37,48970.52,Bangalore,PhD,1
+30581.74,45982.19,Delhi,Bachelor,0
+71139.78,60943.75,Bangalore,High School,1
+13210.38,40193.9,Bangalore,High School,0
+58971.07,55933.68,Chennai,Bachelor,0
+49315.78,56971.17,Chennai,High School,0
+84216.04,59475.29,Mumbai,Master,0
+55681.35,59872.35,Bangalore,PhD,1
+20827.22,58030.4,Bangalore,High School,0
+146780.37,54042.14,Bangalore,Bachelor,0
+43351.72,5000.0,Delhi,High School,0
+48786.27,52543.33,Delhi,Bachelor,0
+21586.8,44615.05,Mumbai,Bachelor,0
+33551.08,41175.64,Delhi,High School,1
+22549.22,45270.45,Delhi,High School,1
+42792.87,47949.81,Bangalore,Bachelor,1
+233354.94,57203.57,Delhi,Bachelor,1
+14545.94,15299.2,Bangalore,High School,0
+11702.68,5000.0,Mumbai,Bachelor,1
+187931.27,59457.14,Chennai,Bachelor,0
+41414.53,56210.55,Mumbai,Master,0
+27381.22,50201.82,Delhi,High School,0
+127477.16,55836.8,Bangalore,Master,1
+28990.52,39349.9,Chennai,Bachelor,1
+258638.61,54188.82,Chennai,High School,1
+92033.84,5000.0,Mumbai,Bachelor,0
+32230.16,23580.33,Mumbai,Bachelor,1
+348486.82,44112.03,Chennai,PhD,0
+28987.93,28061.21,Delhi,High School,0
+97505.51,25963.31,Bangalore,Bachelor,1
+65456.53,52870.89,Mumbai,Bachelor,0
+161352.3,54834.3,Delhi,PhD,0
+203849.73,45987.97,Mumbai,Bachelor,1
+51461.13,32098.54,Delhi,PhD,0
+25379.63,45159.72,Bangalore,Master,0
+75640.96,59031.63,Chennai,High School,1
+27169.07,54738.54,Delhi,Master,1
+306148.88,47908.34,Chennai,PhD,0
+56537.54,47928.58,Delhi,High School,0
+35989.73,5000.0,Mumbai,Bachelor,0
+59041.19,58177.81,Delhi,Bachelor,0
+14873.92,39356.65,Chennai,High School,1
+20854.51,13952.79,Bangalore,High School,0
+147288.83,5000.0,Bangalore,High School,0
+27682.99,51437.7,Chennai,High School,1
+19488.08,39609.57,Bangalore,Bachelor,1
+81045.48,38178.49,Chennai,High School,1
+145351.76,44360.45,Bangalore,Master,0
+95495.68,48203.34,Chennai,Master,0
+122543.48,40576.29,Mumbai,High School,1
+25302.61,61941.88,Delhi,Bachelor,0
+13907.02,35984.78,Mumbai,Bachelor,0
+193102.92,45337.83,Delhi,PhD,1
+37397.77,49595.81,Bangalore,High School,0
+39895.89,5000.0,Mumbai,High School,1
+165239.8,53777.53,Bangalore,Master,1
+82486.12,51425.15,Delhi,PhD,0
+75363.42,5000.0,Delhi,Master,1
+350908.36,54946.42,Mumbai,Master,1
+28018.26,52752.88,Chennai,High School,0
+115247.17,48760.38,Mumbai,Bachelor,1
+52632.55,32576.42,Mumbai,High School,0
+63672.71,44181.68,Bangalore,High School,1
+197876.79,57717.06,Bangalore,Master,0
+78970.56,52598.05,Delhi,High School,0
+81165.43,53233.89,Mumbai,Bachelor,0
+131273.06,47947.16,Delhi,PhD,0
+36001.68,40748.89,Chennai,High School,0
+23493.75,40878.21,Delhi,PhD,0
+19524.98,59807.77,Mumbai,PhD,0
+8519.03,27093.2,Delhi,Bachelor,0
+318177.51,43518.98,Delhi,High School,1
+18525.27,17556.28,Bangalore,Bachelor,0
+40972.24,40435.3,Delhi,Bachelor,0
+38973.85,26088.19,Delhi,Bachelor,0
+65936.29,40048.01,Mumbai,High School,0
+104186.91,18811.55,Delhi,PhD,1
+108467.34,39055.82,Delhi,High School,0
+29584.58,48192.4,Chennai,Master,0
+43017.78,5000.0,Bangalore,High School,0
+64479.35,31461.38,Chennai,Bachelor,1
+39972.87,38103.59,Chennai,Master,1
+212434.57,57633.38,Bangalore,High School,0
+77781.25,57695.02,Delhi,High School,0
+96874.18,42906.74,Bangalore,Bachelor,0
+90796.08,45069.79,Chennai,Master,1
+143760.61,53289.5,Bangalore,Bachelor,0
+58847.09,45133.01,Mumbai,Bachelor,0
+15562.66,10270.08,Delhi,High School,0
+71646.35,35712.71,Chennai,PhD,1
+27821.3,56901.61,Bangalore,Master,0
+31070.79,48351.58,Chennai,Bachelor,0
+84753.8,54753.92,Delhi,Master,1
+152395.29,51278.25,Delhi,Bachelor,0
+50966.44,51524.94,Delhi,Bachelor,0
+66020.99,52115.57,Bangalore,High School,1
+231369.61,57523.41,Delhi,Bachelor,0
+62097.2,48538.68,Delhi,Bachelor,0
+519848.7,52842.5,Chennai,High School,1
+83177.9,62684.19,Delhi,Bachelor,0
+10250.6,5000.0,Chennai,Master,0
+98497.43,26428.62,Mumbai,Bachelor,0
+70461.44,51168.33,Chennai,Bachelor,0
+159620.72,46761.31,Bangalore,Master,0
+91641.68,57073.48,Chennai,High School,1
+44142.04,6009.42,Chennai,Bachelor,1
+16612.49,5000.0,Delhi,Master,0
+41425.73,44913.31,Delhi,Bachelor,0
+23255.8,28150.46,Delhi,Bachelor,0
+29652.66,44650.17,Bangalore,High School,0
+84922.88,57938.45,Chennai,Master,0
+224738.4,51508.02,Mumbai,Bachelor,0
+71323.61,45258.53,Bangalore,Master,1
+17042.81,51905.55,Delhi,Bachelor,0
+74601.86,49554.55,Chennai,Bachelor,1
+146788.29,48115.57,Chennai,Master,1
+28882.0,47990.76,Delhi,Bachelor,0
+44318.74,46329.35,Mumbai,Bachelor,1
+50665.36,56432.74,Delhi,Bachelor,0
+24670.66,54103.29,Bangalore,Master,1
+89610.76,57675.95,Mumbai,Bachelor,1
+44843.1,29311.0,Delhi,Bachelor,0
+72937.45,60877.67,Mumbai,High School,0
+22494.71,24638.15,Mumbai,Master,0
+33727.4,17495.89,Mumbai,High School,0
+95790.76,50431.74,Bangalore,Bachelor,0
+35747.24,62089.93,Delhi,Bachelor,0
+236580.96,51022.42,Bangalore,Bachelor,1
+34895.24,47790.82,Bangalore,Bachelor,0
+61205.63,56127.53,Mumbai,High School,0
+115740.98,52450.02,Delhi,Bachelor,1
+13950.2,12463.49,Bangalore,Master,0
+10250.18,36330.87,Chennai,Master,1
+12666.14,55576.78,Delhi,High School,0
+155765.04,59117.09,Mumbai,Master,1
+30427.62,50682.83,Delhi,Bachelor,0
+499897.14,49498.26,Bangalore,Master,0
+30090.22,39524.65,Delhi,Bachelor,0
+59034.33,52625.35,Mumbai,Bachelor,1
+200321.18,39250.34,Bangalore,Master,0
+304145.62,5000.0,Bangalore,Master,1
+319697.82,33144.1,Mumbai,Bachelor,0
+148346.78,47595.83,Mumbai,High School,0
+125672.5,49165.89,Bangalore,Bachelor,1
+85225.21,50976.98,Delhi,Bachelor,1
+100740.51,23866.6,Delhi,High School,1
+30446.04,53397.13,Chennai,High School,0
+23942.23,46421.08,Delhi,Master,1
+49848.38,46343.21,Bangalore,High School,1
+42899.36,52331.45,Chennai,Bachelor,1
+33252.09,58112.93,Delhi,High School,1
+93575.79,42433.78,Mumbai,Bachelor,1
+118131.42,47752.47,Bangalore,High School,1
+54140.86,39452.48,Chennai,High School,1
+189010.03,52610.47,Chennai,Master,1
+17894.67,22693.25,Bangalore,Master,0
+42002.51,55256.21,Delhi,High School,0
+26229.45,5331.76,Bangalore,Bachelor,0
+9319.79,59703.61,Mumbai,Bachelor,0
+46414.43,40596.88,Mumbai,Master,0
+44810.85,39892.33,Delhi,Master,1
+195220.13,54686.21,Delhi,Bachelor,1
+88212.93,40773.49,Bangalore,Bachelor,1
+19890.75,20918.74,Mumbai,Master,1
+265258.9,61186.3,Mumbai,High School,1
+150047.71,39407.66,Mumbai,Bachelor,1
+84429.0,61857.3,Chennai,Master,0
+40779.82,55844.03,Bangalore,Master,1
+21084.28,8694.73,Delhi,Bachelor,1
+35767.4,53021.37,Delhi,Bachelor,0
+133205.99,57085.82,Delhi,Bachelor,1
+272639.57,49328.95,Chennai,Bachelor,0
+200525.65,5000.0,Bangalore,Bachelor,1
+32202.96,60006.21,Mumbai,Bachelor,0
+18253.69,56376.81,Bangalore,Master,0
+56759.36,13654.67,Mumbai,Master,0
+10180.03,5000.0,Chennai,High School,1
+66878.26,48257.17,Mumbai,Bachelor,0
+43780.16,57438.76,Delhi,Bachelor,0
+32870.98,5000.0,Delhi,Bachelor,0
+11903.0,10046.83,Mumbai,High School,1
+79381.32,36048.13,Chennai,Bachelor,0
+30956.79,54807.11,Mumbai,Master,1
+17445.78,47607.29,Chennai,Bachelor,0
+3769.67,48911.26,Bangalore,Master,1
+48777.03,42309.02,Delhi,PhD,0
+246422.97,15296.63,Delhi,High School,1
+222996.55,31686.47,Delhi,High School,1
+33136.53,56532.73,Bangalore,PhD,0
+29079.46,17822.4,Delhi,PhD,1
+76242.56,42588.72,Mumbai,High School,0
+20358.04,35883.13,Mumbai,High School,0
+65603.94,14753.02,Bangalore,High School,1
+99633.18,56733.05,Delhi,PhD,0
+150846.52,47445.79,Mumbai,High School,0
+45690.22,52591.85,Mumbai,Bachelor,0
+41625.65,58993.33,Mumbai,Master,1
+22688.06,42055.72,Chennai,High School,1
+23755.89,5000.0,Delhi,Bachelor,1
+40780.01,60035.48,Chennai,High School,1
+69592.16,47402.17,Bangalore,Master,1
+113778.0,36816.07,Bangalore,High School,1
+24268.08,45380.45,Bangalore,Bachelor,0
+191606.29,48370.44,Mumbai,Bachelor,0
+39173.94,57750.59,Delhi,High School,0
+49047.66,43814.38,Bangalore,High School,0
+25521.79,54402.3,Mumbai,Bachelor,0
+5641.82,61113.82,Bangalore,High School,0
+110793.03,23462.93,Mumbai,Master,0
+97045.75,29793.11,Chennai,Master,1
+38815.83,46337.16,Bangalore,Bachelor,1
+53107.31,43869.36,Delhi,Bachelor,0
+79548.61,26816.85,Mumbai,Bachelor,1
+12252.52,43939.28,Bangalore,Master,1
+31058.6,31107.83,Bangalore,Bachelor,1
+102192.8,50383.75,Mumbai,High School,0
+16170.08,19905.5,Chennai,High School,1
+65119.57,42468.33,Delhi,Bachelor,1
+14747.88,44381.1,Mumbai,Bachelor,0
+76081.87,57601.12,Chennai,Bachelor,1
+48421.58,42995.63,Chennai,High School,1
+11686.15,54945.67,Bangalore,Master,1
+142634.93,53485.88,Chennai,High School,1
+25813.32,54828.31,Delhi,High School,1
+24114.08,56466.43,Chennai,Bachelor,1
+59891.54,5000.0,Mumbai,High School,0
+140582.8,19290.37,Delhi,Bachelor,0
+20041.06,5000.0,Delhi,Bachelor,0
+52854.08,57352.76,Mumbai,Bachelor,1
+73549.44,46079.44,Delhi,Bachelor,1
+93299.81,57721.56,Mumbai,High School,0
+58605.02,53939.44,Delhi,High School,0
+35934.5,55534.22,Delhi,Master,0
+23740.72,22133.93,Bangalore,Bachelor,0
+54030.71,51359.94,Mumbai,Bachelor,0
+19050.59,26975.25,Mumbai,High School,1
+3606.75,37525.55,Bangalore,Bachelor,0
+74063.8,5000.0,Chennai,Bachelor,0
+112794.14,58609.83,Bangalore,Bachelor,0
+5961.87,21540.26,Mumbai,Master,0
+20151.23,24839.64,Bangalore,High School,0
+87292.26,55893.33,Delhi,High School,1
+318546.65,28571.0,Delhi,Master,1
+50944.53,42224.78,Mumbai,PhD,1
+25966.84,49649.65,Chennai,High School,0
+42411.36,54889.07,Delhi,Bachelor,0
+172330.09,54119.25,Delhi,High School,0
+27956.65,5000.0,Delhi,High School,0
+24355.32,46991.39,Chennai,Bachelor,1
+32380.42,33879.62,Bangalore,High School,1
+21200.55,54652.53,Delhi,Master,0
+55836.42,54572.21,Bangalore,Bachelor,0
+215774.44,26611.38,Mumbai,High School,1
+66872.94,58001.69,Bangalore,High School,0
+39841.33,51540.0,Delhi,Master,1
+38451.31,46566.11,Chennai,High School,0
+12245.41,45540.55,Mumbai,Bachelor,1
+110699.77,49120.86,Bangalore,Bachelor,0
+46617.2,41253.25,Delhi,Bachelor,0
+42503.7,35764.88,Mumbai,Bachelor,0
+885205.5,34897.2,Mumbai,High School,1
+65424.75,55972.2,Mumbai,High School,1
+25416.82,50246.75,Delhi,High School,0
+34066.05,23457.97,Bangalore,Bachelor,1
+140558.55,31329.41,Delhi,Bachelor,1
+55366.04,58114.83,Bangalore,High School,1
+13702.43,41978.98,Chennai,High School,0
+114357.45,60493.08,Bangalore,Bachelor,1
+27404.12,46398.8,Bangalore,Bachelor,1
+269883.67,5000.0,Bangalore,PhD,0
+132167.0,55729.41,Mumbai,Bachelor,0
+33429.32,54962.32,Chennai,Bachelor,0
+158370.58,34271.44,Delhi,Bachelor,1
+53148.66,58887.04,Bangalore,Master,0
+107718.28,53441.24,Bangalore,Master,0
+77345.51,37672.85,Mumbai,Bachelor,1
+23343.11,53453.62,Mumbai,High School,1
+28017.47,49740.64,Mumbai,High School,0
+126341.4,34695.33,Chennai,Bachelor,0
+36992.87,40821.74,Chennai,Master,1
+34769.46,43303.64,Mumbai,Bachelor,0
+21166.35,50803.63,Bangalore,High School,0
+73204.89,41677.59,Chennai,Master,1
+319991.82,48493.42,Delhi,Master,1
+19129.72,40200.2,Delhi,High School,0
+51101.84,52288.34,Bangalore,Bachelor,1
+178220.49,49159.44,Chennai,Bachelor,1
+46541.56,55998.41,Chennai,Master,1
+75125.32,47435.74,Mumbai,Master,0
+19218.41,54797.11,Delhi,Bachelor,0
+73515.73,56747.31,Mumbai,Bachelor,0
+42249.53,43427.17,Delhi,Master,0
+121410.82,44109.6,Delhi,Bachelor,1
+145571.95,33863.42,Bangalore,Bachelor,0
+514209.25,51689.09,Delhi,Master,0
+84241.94,41049.03,Chennai,High School,1
+67036.66,38532.17,Mumbai,Bachelor,0
+59559.09,40425.4,Bangalore,Master,0
+36385.61,54901.22,Delhi,Master,0
+67806.53,45016.12,Mumbai,Bachelor,1
+38327.27,41774.06,Delhi,High School,0
+58185.6,46909.32,Chennai,Bachelor,1
+163671.4,60821.98,Chennai,High School,1
+20209.13,44859.87,Mumbai,High School,0
+139478.95,5000.0,Delhi,Master,0
+163600.35,51009.98,Chennai,High School,1
+44959.47,54187.34,Mumbai,Bachelor,0
+7406.47,41623.86,Delhi,Bachelor,0
+28933.01,42600.55,Bangalore,PhD,0
+160664.46,23516.89,Chennai,Bachelor,0
+48981.45,57537.7,Delhi,High School,0
+20341.25,34965.76,Delhi,High School,0
+31744.69,37787.75,Chennai,Bachelor,0
+106546.45,48704.82,Delhi,Bachelor,0
+81784.13,42184.21,Delhi,Bachelor,0
+40325.5,27997.26,Bangalore,Bachelor,0
+35941.08,31851.66,Chennai,High School,0
+35143.53,56913.0,Mumbai,Bachelor,0
+21798.78,33040.08,Chennai,Bachelor,0
+213975.42,47796.9,Bangalore,High School,1
+37409.87,46057.96,Delhi,High School,1
+149525.31,46053.68,Chennai,High School,1
+196607.13,48796.91,Mumbai,High School,0
+122793.34,23546.72,Delhi,Bachelor,1
+33905.08,48024.53,Bangalore,High School,0
+71907.47,56779.02,Mumbai,High School,0
+48922.97,51334.14,Delhi,High School,0
+22168.92,44601.57,Delhi,PhD,0
+66950.02,22443.95,Mumbai,Master,1
+17303.13,37545.28,Chennai,High School,0
+145610.38,55075.59,Bangalore,Bachelor,1
+32912.99,5000.0,Chennai,High School,0
+59923.38,43334.64,Delhi,Bachelor,0
+64520.44,21045.93,Delhi,High School,1
+39607.11,48813.6,Delhi,Bachelor,0
+84778.96,38853.29,Delhi,Bachelor,0
+32609.7,32605.14,Delhi,Master,0
+109529.13,22770.96,Bangalore,High School,0
+14889.28,27267.21,Chennai,Master,1
+56023.13,31854.41,Chennai,Master,1
+286305.41,50562.76,Delhi,High School,0
+20322.42,52936.92,Chennai,Bachelor,0
+27168.35,42281.1,Mumbai,High School,0
+79403.31,30410.11,Delhi,High School,1
+58770.89,49598.46,Chennai,High School,1
+68551.83,27060.52,Bangalore,Bachelor,1
+77656.2,15240.4,Delhi,Bachelor,1
+88523.88,55522.25,Mumbai,PhD,0
+135741.57,54980.56,Delhi,High School,0
+72302.58,48684.6,Bangalore,PhD,0
+40241.19,42675.15,Mumbai,High School,1
+91591.58,52531.88,Chennai,Master,1
+276418.7,18617.9,Delhi,Bachelor,1
+44373.95,40779.04,Mumbai,High School,1
+20799.87,46496.04,Mumbai,Master,0
+135421.97,58412.1,Mumbai,Bachelor,1
+44865.99,57834.34,Mumbai,Bachelor,0
+7075.37,43087.04,Bangalore,Bachelor,1
+107200.67,60954.7,Chennai,Bachelor,0
+30883.67,28430.38,Chennai,Bachelor,0
+46087.56,48886.39,Chennai,Master,0
+67410.8,5000.0,Chennai,High School,0
+59351.22,5000.0,Bangalore,Bachelor,1
+94682.54,49147.02,Chennai,Master,1
+33787.31,48291.19,Mumbai,High School,0
+79346.01,28864.39,Mumbai,High School,0
+39584.24,5700.99,Mumbai,Master,0
+97217.67,59281.24,Mumbai,Bachelor,0
+86995.27,59845.3,Delhi,Bachelor,0
+21544.66,53354.18,Chennai,High School,0
+132874.74,37933.74,Mumbai,Bachelor,1
+30866.02,39512.62,Delhi,High School,1
+103469.31,26938.18,Mumbai,Bachelor,1
+69587.27,57227.57,Delhi,Master,0
+261487.98,61442.45,Delhi,High School,1
+40890.74,32181.85,Delhi,Bachelor,0
+36511.89,54919.18,Mumbai,PhD,1
+49133.71,60618.33,Mumbai,Bachelor,1
+38059.9,45076.17,Bangalore,Master,0
+102716.29,33638.07,Bangalore,Bachelor,1
+11673.76,48474.05,Mumbai,Master,0
+19369.68,51935.77,Mumbai,High School,0
+19125.08,48900.02,Mumbai,High School,0
+117601.27,51112.85,Bangalore,High School,1
+233125.06,57994.2,Delhi,Bachelor,1
+45513.94,54085.47,Delhi,Master,0
+42952.01,39073.45,Bangalore,Bachelor,1
+53253.84,42454.25,Mumbai,Bachelor,0
+142268.12,44752.86,Delhi,Master,1
+21702.02,56031.06,Delhi,Bachelor,1
+61964.09,49147.62,Chennai,Bachelor,1
+120265.39,61078.69,Chennai,Bachelor,0
+78492.87,44604.68,Bangalore,Bachelor,1
+59302.2,16061.12,Mumbai,High School,1
+123095.99,58586.02,Mumbai,PhD,0
+4389.05,53056.08,Chennai,High School,1
+92029.65,42336.71,Chennai,High School,1
+27753.3,21734.24,Delhi,Master,1
+9625.86,51847.46,Chennai,Bachelor,0
+79210.22,53912.74,Delhi,Bachelor,0
+172141.31,60463.64,Delhi,Bachelor,1
+44182.08,45648.34,Bangalore,Bachelor,1
+117873.27,5000.0,Mumbai,High School,1
+213379.75,43142.97,Chennai,Bachelor,1
+163276.65,47278.54,Delhi,Bachelor,0
+218763.47,42447.87,Mumbai,Master,1
+97508.32,47139.22,Chennai,Bachelor,0
+53512.39,54811.48,Chennai,PhD,1
+11825.45,32970.17,Delhi,High School,1
+40067.55,43918.31,Mumbai,Bachelor,0
+23408.54,46776.7,Bangalore,Bachelor,1
+352789.46,55905.99,Delhi,Master,1
+42679.8,20172.25,Chennai,High School,0
+55863.28,36335.38,Chennai,Bachelor,0
+82134.64,52776.91,Delhi,Master,0
+52001.12,28706.12,Delhi,High School,1
+229882.65,52294.03,Delhi,Master,0
+28549.48,54587.89,Chennai,High School,0
+59571.05,54424.08,Delhi,Master,1
+25630.92,59789.77,Mumbai,PhD,0
+15241.21,39960.58,Mumbai,Bachelor,1
+28830.41,60004.34,Bangalore,Bachelor,1
+48360.82,57382.4,Delhi,High School,0
+33975.88,60790.01,Delhi,Master,0
+26811.85,48052.46,Chennai,Bachelor,0
+14102.29,48797.79,Chennai,High School,0
+46396.68,50679.61,Bangalore,Bachelor,0
+12907.06,56323.94,Delhi,Bachelor,0
+99094.44,57076.7,Mumbai,High School,0
+53850.88,40085.98,Bangalore,High School,0
+13466.79,52756.62,Delhi,High School,0
+37853.93,42538.05,Chennai,Bachelor,1
+25408.46,55313.84,Bangalore,Bachelor,0
+66638.34,44567.73,Delhi,Bachelor,0
+167072.59,20179.47,Chennai,Master,1
+9247.63,37868.71,Chennai,Master,0
+55453.59,51513.6,Delhi,Bachelor,0
+43289.21,43449.24,Mumbai,High School,0
+91489.94,49790.71,Mumbai,Bachelor,1
+60576.07,46900.44,Mumbai,Bachelor,1
+25412.74,50668.73,Delhi,Bachelor,0
+37520.01,48955.97,Bangalore,Bachelor,0
+24424.82,44119.05,Chennai,Bachelor,0
+131687.2,56019.81,Mumbai,Master,0
+50968.28,56160.27,Delhi,High School,0
+276744.48,58190.0,Bangalore,Bachelor,0
+47343.44,59128.08,Mumbai,High School,0
+26428.87,57322.65,Chennai,Master,1
+12803.01,44874.34,Mumbai,High School,0
+9867.01,55364.82,Delhi,High School,0
+12016.74,39212.19,Delhi,Bachelor,0
+63588.78,46557.25,Bangalore,Bachelor,1
+79033.79,60462.31,Delhi,High School,1
+12048.63,36529.89,Bangalore,Bachelor,0
+111894.61,33248.79,Delhi,Bachelor,1
+32371.17,56022.98,Mumbai,High School,0
+57061.9,40844.65,Mumbai,Bachelor,0
+213368.68,55116.93,Chennai,Master,1
+112076.13,45726.31,Chennai,Bachelor,0
+39265.47,57572.25,Delhi,Master,0
+22419.92,59869.53,Mumbai,Bachelor,0
+7209.42,51231.27,Delhi,Bachelor,1
+26174.48,48493.38,Mumbai,High School,0
+41347.24,51373.78,Mumbai,High School,1
+20564.4,57141.86,Chennai,Master,0
+44428.97,51394.93,Chennai,PhD,1
+53580.74,43265.99,Mumbai,Bachelor,1
+40839.62,47556.86,Mumbai,High School,0
+27855.23,44547.15,Chennai,High School,0
+58195.74,53739.61,Chennai,Bachelor,0
+74423.34,24122.72,Delhi,Bachelor,1
+18740.07,57098.52,Mumbai,High School,0
+178013.99,39678.24,Mumbai,PhD,1
+45754.66,23830.59,Delhi,Bachelor,0
+50855.47,39795.88,Delhi,Master,1
+94577.16,49379.18,Delhi,Master,1
+61677.4,52564.39,Bangalore,Master,1
+117901.08,27825.13,Delhi,Bachelor,0
+64743.59,58352.18,Delhi,Bachelor,0
+28813.08,55872.56,Delhi,Bachelor,0
+69225.98,51372.62,Chennai,Bachelor,0
+17861.89,22191.81,Chennai,Bachelor,1
+55131.8,41518.59,Mumbai,PhD,1
+48526.79,55859.27,Mumbai,Master,0
+41459.53,50514.38,Chennai,Master,0
+44537.84,53291.14,Delhi,Master,0
+9192.23,54048.03,Delhi,High School,1
+30513.54,29284.15,Delhi,High School,1
+54357.54,58109.45,Delhi,Bachelor,0
+57736.74,9492.49,Mumbai,Bachelor,1
+19828.4,32859.0,Chennai,Master,0
+156203.57,26372.1,Bangalore,Bachelor,0
+22930.45,51982.25,Mumbai,Bachelor,0
+119645.65,48793.49,Chennai,Bachelor,1
+73442.14,58399.37,Delhi,High School,0
+27950.03,52532.71,Delhi,Bachelor,0
+247102.4,39569.99,Bangalore,Master,1
+17077.3,20405.26,Bangalore,High School,1
+114349.75,56707.41,Delhi,Bachelor,0
+123044.62,51063.41,Mumbai,Bachelor,1
+27343.12,48808.89,Bangalore,High School,0
+175079.78,58224.46,Bangalore,High School,0
+39924.14,37770.08,Bangalore,PhD,1
+64835.11,54156.36,Mumbai,Bachelor,1
+63200.53,49300.98,Delhi,High School,0
+44307.11,51881.71,Mumbai,High School,0
+103725.76,54641.22,Delhi,Bachelor,1
+102121.46,47088.55,Chennai,Bachelor,0
+10364.06,49521.61,Mumbai,Bachelor,0
+161730.15,51125.24,Mumbai,High School,1
+11198.5,54190.25,Bangalore,Master,0
+126635.72,42488.21,Mumbai,Bachelor,1
+137835.04,7722.73,Mumbai,Bachelor,1
+18730.5,45148.24,Chennai,Bachelor,0
+34545.94,28850.81,Chennai,Bachelor,1
+18483.69,58198.0,Bangalore,Master,0
+41206.42,44898.29,Delhi,Master,0
+37893.98,56650.4,Bangalore,Bachelor,0
+100858.39,58598.55,Bangalore,Master,1
+162601.25,54272.49,Delhi,Master,0
+175587.67,23541.15,Delhi,PhD,0
+30146.59,29998.78,Chennai,High School,0
+41418.32,43662.31,Delhi,Bachelor,1
+10989.37,58843.67,Bangalore,High School,0
+24209.37,49310.76,Mumbai,Master,1
+119150.75,42767.35,Mumbai,High School,1
+214015.31,44646.62,Delhi,Bachelor,1
+16462.89,60048.37,Chennai,Bachelor,1
+29335.7,55348.15,Mumbai,Bachelor,1
+48825.75,47789.54,Mumbai,Bachelor,0
+64339.13,38799.58,Bangalore,Master,0
+24128.17,61130.67,Bangalore,Bachelor,0
+73235.33,48931.11,Chennai,Master,1
+32640.95,45104.25,Mumbai,High School,0
+49353.86,32374.31,Mumbai,Bachelor,0
+81751.06,35764.84,Chennai,Bachelor,1
+50289.84,37936.89,Bangalore,High School,0
+33759.97,54717.81,Delhi,Bachelor,1
+45303.04,60266.0,Delhi,Bachelor,0
+46177.67,51329.57,Chennai,Bachelor,0
+35838.15,28711.02,Mumbai,Master,1
+39610.99,17259.03,Bangalore,Bachelor,1
+210778.0,35400.54,Mumbai,High School,1
+82834.99,40689.45,Delhi,High School,1
+38324.55,41520.69,Bangalore,Bachelor,1
+93623.55,52804.24,Delhi,High School,0
+37024.71,48566.37,Mumbai,High School,0
+143715.43,7099.82,Mumbai,Bachelor,0
+69734.9,55694.73,Mumbai,Bachelor,0
+45397.23,9258.95,Bangalore,Bachelor,1
+74811.25,50632.74,Chennai,Master,1
+12161.0,19478.98,Bangalore,Bachelor,0
+18136.61,58276.55,Delhi,Bachelor,0
+17072.87,37873.67,Delhi,Master,1
+56864.53,54252.94,Mumbai,Bachelor,0
+237765.88,58316.21,Chennai,Bachelor,1
+372483.65,44024.7,Chennai,Bachelor,1
+88789.55,28511.32,Chennai,High School,1
+78475.23,55036.66,Mumbai,Bachelor,0
+9885.52,58696.78,Mumbai,Bachelor,0
+30680.17,48120.83,Mumbai,PhD,0
+24606.67,48068.65,Delhi,Master,1
+28595.81,38578.04,Delhi,Bachelor,1
+42978.22,30009.1,Chennai,High School,1
+32692.36,47733.28,Delhi,High School,0
+8420.36,5000.0,Delhi,Bachelor,1
+98017.13,43940.83,Delhi,Bachelor,1
+19040.23,50876.03,Chennai,High School,1
+62013.07,59174.33,Bangalore,Bachelor,0
+323337.74,50023.08,Bangalore,High School,1
+21858.22,50776.42,Chennai,PhD,0
+5128.25,29745.78,Mumbai,High School,0
+38652.8,40118.85,Bangalore,PhD,1
+134677.99,57116.17,Delhi,Master,1
+291353.04,44693.32,Delhi,Bachelor,1
+16534.16,36198.04,Chennai,Master,1
+78183.01,12543.0,Bangalore,Bachelor,1
+32892.46,31497.35,Mumbai,Bachelor,0
+45452.58,34339.83,Mumbai,Bachelor,1
+540195.99,46226.77,Mumbai,Bachelor,0
+12927.41,41377.72,Delhi,Bachelor,1
+62827.24,21835.21,Delhi,Bachelor,0
+76168.41,57918.91,Delhi,Bachelor,0
+132851.33,50905.79,Delhi,High School,0
+54609.5,54518.9,Chennai,Bachelor,1
+65974.51,41528.69,Delhi,High School,0
+35147.0,22413.93,Delhi,High School,0
+63703.36,53148.08,Mumbai,High School,1
+36713.7,61622.42,Chennai,High School,1
+87482.41,51511.77,Delhi,High School,1
+35851.08,30882.74,Delhi,Master,1
+70204.57,38775.01,Mumbai,High School,1
+48700.36,40709.09,Bangalore,Bachelor,1
+137753.83,50203.71,Bangalore,High School,1
+47739.95,57647.43,Chennai,Master,0
+10138.03,39181.85,Chennai,Bachelor,1
+155672.18,54962.03,Bangalore,Bachelor,0
+22128.45,5000.0,Bangalore,Bachelor,0
+27761.03,38164.47,Mumbai,Bachelor,0
+29251.41,53011.86,Delhi,Bachelor,0
+172262.12,53267.04,Chennai,High School,0
+7314.92,48133.81,Mumbai,PhD,1
+842182.46,49778.32,Delhi,Bachelor,0
+129343.82,25663.4,Bangalore,Bachelor,1
+61126.04,44491.02,Delhi,Master,1
+47589.8,54214.21,Bangalore,Bachelor,0
+64652.17,5000.0,Bangalore,Master,0
+79920.56,46367.87,Mumbai,Bachelor,0
+89363.92,34167.8,Chennai,Master,0
+82439.69,53241.07,Delhi,High School,1
+54198.09,41790.71,Mumbai,Master,1
+41863.67,42620.42,Mumbai,Master,1
+43635.76,60204.79,Bangalore,High School,0
+41955.33,5000.0,Bangalore,High School,0
+138714.25,20574.09,Mumbai,Bachelor,0
+85304.23,51369.16,Bangalore,PhD,1
+3545.48,56679.0,Delhi,High School,0
+90227.45,42042.04,Chennai,Bachelor,1
+59577.95,45873.78,Mumbai,High School,0
+49165.15,41911.38,Bangalore,Bachelor,0
+35246.15,44416.79,Delhi,Bachelor,0
+137513.82,39344.95,Delhi,PhD,1
+117307.28,15425.05,Mumbai,Bachelor,1
+24939.01,38209.59,Chennai,Master,0
+72122.79,56366.82,Mumbai,Bachelor,0
+20853.71,18280.31,Chennai,High School,1
+14445.26,8241.7,Mumbai,Bachelor,1
+28445.15,5000.0,Mumbai,Bachelor,1
+108654.94,56801.71,Delhi,PhD,0
+117899.85,43664.14,Chennai,Master,1
+79344.56,60809.15,Delhi,High School,1
+96025.06,38488.56,Chennai,High School,1
+79565.73,52736.45,Chennai,High School,1
+28069.67,5000.0,Chennai,Master,1
+73755.33,54533.9,Mumbai,Master,0
+102759.53,59482.4,Bangalore,Master,1
+98581.66,52057.88,Bangalore,Bachelor,1
+145772.19,60484.43,Delhi,Bachelor,0
+94584.77,34548.31,Bangalore,Bachelor,1
+68602.32,60758.94,Delhi,High School,0
+130994.88,46637.84,Mumbai,Bachelor,1
+48820.67,60796.56,Delhi,High School,0
+22608.72,50615.33,Delhi,High School,0
+43175.05,8131.79,Mumbai,Master,0
+25574.88,41830.77,Mumbai,Master,1
